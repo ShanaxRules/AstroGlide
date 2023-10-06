@@ -1,0 +1,493 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 80rem;
+}.planet-name-1-TXX {
+  box-sizing: border-box;
+  padding: 2.2rem 0rem 3rem 0rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #2b2b2b;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/planet-name-1-bg.png');
+}
+.planet-name-1-TXX .auto-group-jos5-L5X {
+  margin-bottom: 3rem;
+  width: 32.2rem;
+  height: 2.4rem;
+  flex-shrink: 0;
+}
+.planet-name-1-TXX .auto-group-jos5-L5X .group-51-s5T {
+  margin-right: 12.692rem;
+  box-sizing: border-box;
+  padding: 0.4rem 0.608rem 0.2rem 3.2rem;
+  width: 19.508rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.756rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.3rem rgba(158, 0, 255, 0.6000000238);
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 0.7rem;
+  background-color: rgba(46, 53, 218, 0.3000000119);
+}
+.planet-name-1-TXX .auto-group-kfuh-C1F {
+  margin: 0rem 4.9rem 0.3rem 5.8rem;
+  width: calc(100% - 10.7rem);
+  height: 10.3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.planet-name-1-TXX .auto-group-kfuh-C1F .auto-group-ckhw-hTo {
+  margin: 0.1rem 4.8rem 0rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.planet-name-1-TXX .auto-group-kfuh-C1F .auto-group-ckhw-hTo .auto-group-uf6u-pYR {
+  margin: 0rem 0rem 0.3rem 0.4rem;
+  width: 13.4rem;
+  height: 1.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.planet-name-1-TXX .auto-group-kfuh-C1F .auto-group-ckhw-hTo .auto-group-uf6u-pYR .vector-4-LFs {
+  width: 13.4rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.planet-name-1-TXX .auto-group-kfuh-C1F .auto-group-ckhw-hTo .auto-group-uf6u-pYR .mars-GQR {
+  width: 7.5rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 0.9rem;
+  top: 0;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.81rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.planet-name-1-TXX .auto-group-kfuh-C1F .auto-group-ckhw-hTo .front-2-2-kaV {
+  width: 10.6rem;
+  height: 8rem;
+  cursor: pointer;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.planet-name-1-TXX .auto-group-kfuh-C1F .auto-group-hpob-H4d {
+  margin: 0rem 4.3rem 0.4rem 0rem;
+  width: 13.4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.planet-name-1-TXX .auto-group-kfuh-C1F .auto-group-hpob-H4d .auto-group-88mb-PtM {
+  width: 100%;
+  height: 2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.planet-name-1-TXX .auto-group-kfuh-C1F .auto-group-hpob-H4d .auto-group-88mb-PtM .vector-24-YFT {
+  width: 13.4rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 0;
+  top: 0.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.planet-name-1-TXX .auto-group-kfuh-C1F .auto-group-hpob-H4d .auto-group-88mb-PtM .jupiter-HD3 {
+  width: 11.7rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 0.45rem;
+  top: 0;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.81rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.planet-name-1-TXX .auto-group-kfuh-C1F .auto-group-hpob-H4d .front-1-2-ybf {
+  margin-left: 0.7rem;
+  width: 9.7rem;
+  height: 7.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.planet-name-1-TXX .auto-group-kfuh-C1F .auto-group-nukf-Jtq {
+  margin: 0.1rem 5.2rem 0rem 0rem;
+  width: 14.4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.planet-name-1-TXX .auto-group-kfuh-C1F .auto-group-nukf-Jtq .auto-group-ddnd-eC1 {
+  margin-bottom: 0.4rem;
+  width: 100%;
+  height: 1.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.planet-name-1-TXX .auto-group-kfuh-C1F .auto-group-nukf-Jtq .auto-group-ddnd-eC1 .vector-35-nZ7 {
+  width: 14.4rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 0;
+  top: 0.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.planet-name-1-TXX .auto-group-kfuh-C1F .auto-group-nukf-Jtq .auto-group-ddnd-eC1 .mercury-vvD {
+  width: 12.8rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 0.15rem;
+  top: 0;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.81rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.planet-name-1-TXX .auto-group-kfuh-C1F .auto-group-nukf-Jtq .front-4-ER7 {
+  margin-right: 0.8rem;
+  width: 12rem;
+  height: 7.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.planet-name-1-TXX .auto-group-kfuh-C1F .auto-group-pn9j-N1X {
+  margin: 0.2rem 0rem 0.1rem 0rem;
+  width: 13.4rem;
+  height: calc(100% - 0.3rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.planet-name-1-TXX .auto-group-kfuh-C1F .auto-group-pn9j-N1X .auto-group-bvs9-gH7 {
+  margin-bottom: 0.2rem;
+  width: 100%;
+  height: 1.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.planet-name-1-TXX .auto-group-kfuh-C1F .auto-group-pn9j-N1X .auto-group-bvs9-gH7 .vector-46-1aH {
+  width: 13.4rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.planet-name-1-TXX .auto-group-kfuh-C1F .auto-group-pn9j-N1X .auto-group-bvs9-gH7 .venus-9gV {
+  width: 9.7rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 0.25rem;
+  top: 0;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.81rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.planet-name-1-TXX .auto-group-kfuh-C1F .auto-group-pn9j-N1X .front-7-2-ET3 {
+  margin-left: 0.1rem;
+  width: 9.3rem;
+  height: 7.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.planet-name-1-TXX .auto-group-aw9t-MnZ {
+  margin: 0rem 4.9rem 0.2rem 5.8rem;
+  width: calc(100% - 10.7rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.planet-name-1-TXX .auto-group-aw9t-MnZ .auto-group-aoem-5Cm {
+  margin: 0rem 4.7rem 0.1rem 0rem;
+  width: 13.9rem;
+  height: 1.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.planet-name-1-TXX .auto-group-aw9t-MnZ .auto-group-aoem-5Cm .vector-57-mrH {
+  width: 13.9rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.planet-name-1-TXX .auto-group-aw9t-MnZ .auto-group-aoem-5Cm .neptune-7QM {
+  width: 12.7rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 0.05rem;
+  top: 0;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.81rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.planet-name-1-TXX .auto-group-aw9t-MnZ .auto-group-yxn9-cc1 {
+  margin-right: 4.4rem;
+  width: 13.4rem;
+  height: 1.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.planet-name-1-TXX .auto-group-aw9t-MnZ .auto-group-yxn9-cc1 .vector-79-A7j {
+  width: 13.4rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.planet-name-1-TXX .auto-group-aw9t-MnZ .auto-group-yxn9-cc1 .saturn-h7f {
+  width: 10.7rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 0.25rem;
+  top: 0;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.81rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.planet-name-1-TXX .auto-group-aw9t-MnZ .auto-group-7vu5-neu {
+  margin-right: 6.1rem;
+  width: 13.4rem;
+  height: 1.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.planet-name-1-TXX .auto-group-aw9t-MnZ .auto-group-7vu5-neu .vector-68-XsP {
+  width: 13.4rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.planet-name-1-TXX .auto-group-aw9t-MnZ .auto-group-7vu5-neu .uranus-58D {
+  width: 11.1rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 0.5rem;
+  top: 0;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.81rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.planet-name-1-TXX .auto-group-aw9t-MnZ .auto-group-ngtf-Bh3 {
+  width: 13.4rem;
+  height: 1.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.planet-name-1-TXX .auto-group-aw9t-MnZ .auto-group-ngtf-Bh3 .vector-86-8cH {
+  width: 13.4rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.planet-name-1-TXX .auto-group-aw9t-MnZ .auto-group-ngtf-Bh3 .pluto-5XX {
+  width: 8.5rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 0.75rem;
+  top: 0;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.81rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.planet-name-1-TXX .auto-group-5mjb-NmX {
+  margin: 0rem 6.3rem 1.6rem 6.6rem;
+  width: calc(100% - 12.9rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.planet-name-1-TXX .auto-group-5mjb-NmX .front-3-2-6hX {
+  margin: 0rem 9.2rem 0.4rem 0rem;
+  width: 9.1rem;
+  height: 8.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.planet-name-1-TXX .auto-group-5mjb-NmX .front-6-2-pdX {
+  margin: 0rem 7.3rem 0.4rem 0rem;
+  width: 12.3rem;
+  height: 7.1rem;
+  cursor: pointer;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.planet-name-1-TXX .auto-group-5mjb-NmX .front-5-2-YJd {
+  margin-right: 9.3rem;
+  width: 9.5rem;
+  height: 7.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.planet-name-1-TXX .auto-group-5mjb-NmX .front-4-2-UTB {
+  width: 10.4rem;
+  height: 8rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.planet-name-1-TXX .auto-group-ohxq-1xu {
+  margin: 0rem 2.1rem 0rem 2rem;
+  width: calc(100% - 4.1rem);
+  height: 2.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.planet-name-1-TXX .auto-group-ohxq-1xu .group-33-isK {
+  margin-right: 53.6915rem;
+  width: 11.6085rem;
+  height: 100%;
+  cursor: pointer;
+  position: relative;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.planet-name-1-TXX .auto-group-ohxq-1xu .group-33-isK .rectangle-7-Ta1 {
+  width: 10.2468rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.3rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 1.2rem;
+}
+.planet-name-1-TXX .auto-group-ohxq-1xu .group-33-isK .rectangle-10-MQV {
+  width: 10.2468rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.3rem rgba(158, 0, 255, 0.6000000238);
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  background-color: rgba(46, 53, 218, 0.3000000119);
+  border-radius: 1.2rem;
+}
+.planet-name-1-TXX .auto-group-ohxq-1xu .group-33-isK .home-DxV {
+  width: 7.5rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 0.3rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.756rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+  z-index:12;
+}
+.planet-name-1-TXX .auto-group-ohxq-1xu .group-32-JDF {
+  width: 10.6rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.756rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.3rem rgba(158, 0, 255, 0.6000000238);
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 1.2rem;
+  background-color: rgba(46, 53, 218, 0.3000000119);
+  flex-shrink: 0;
+}

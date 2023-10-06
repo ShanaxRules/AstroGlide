@@ -1,0 +1,251 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 80rem;
+}.cart-page-bEy {
+  box-sizing: border-box;
+  padding: 2.9rem 0rem 2.4rem 0rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/beauty-retail-loyalty-card-in-ash-grey-brown-photo-centric-style2-4-bg.png');
+  background-color: #ffffff;
+}
+.cart-page-bEy .auto-group-7xbw-h37 {
+  margin-bottom: 4rem;
+  width: 23.9rem;
+  height: 2.5rem;
+  flex-shrink: 0;
+}
+.cart-page-bEy .auto-group-7xbw-h37 .auto-group-duah-EHw {
+  width: 12.4rem;
+  height: 100%;
+  position: relative;
+}
+.cart-page-bEy .auto-group-7xbw-h37 .auto-group-duah-EHw .group-104-nKT {
+  width: 12.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.3rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 0.7rem;
+}
+.cart-page-bEy .auto-group-7xbw-h37 .auto-group-duah-EHw .group-104-nKT .rectangle-10-XH3 {
+  width: 100%;
+  height: 2.4rem;
+  border: solid 0.3rem rgba(158, 0, 255, 0.6000000238);
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  background-color: rgba(46, 53, 218, 0.3000000119);
+  border-radius: 0.7rem;
+}
+.cart-page-bEy .auto-group-7xbw-h37 .auto-group-duah-EHw .cart-AL1 {
+  width: 7.1rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 0.3rem;
+  font-size: 1.7rem;
+  font-weight: 600;
+  line-height: 1.25;
+  letter-spacing: 0.918rem;
+  color: #ffffff;
+  font-family: Oxanium, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cart-page-bEy .auto-group-bknh-4AV {
+  margin: 0rem 0rem 15.2rem 4.6rem;
+  height: 1rem;
+  display: flex;
+  column-gap: 16.95rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.cart-page-bEy .auto-group-bknh-4AV .group-104-kp1 {
+  width: 1.15rem;
+  height: 100%;
+  border: solid 0.3rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  flex-shrink: 0;
+}
+.cart-page-bEy .auto-group-bknh-4AV .group-104-kp1 .rectangle-10-hjF {
+  width: 100%;
+  height: 1rem;
+  border: solid 0.3rem rgba(158, 0, 255, 0.6000000238);
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  background-color: rgba(46, 53, 218, 0.3000000119);
+}
+.cart-page-bEy .auto-group-bknh-4AV .group-105-bpd {
+  width: 1.15rem;
+  height: 100%;
+  border: solid 0.3rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  flex-shrink: 0;
+}
+.cart-page-bEy .auto-group-bknh-4AV .group-105-bpd .rectangle-10-ZFf {
+  width: 100%;
+  height: 1rem;
+  border: solid 0.3rem rgba(158, 0, 255, 0.6000000238);
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  background-color: rgba(46, 53, 218, 0.3000000119);
+}
+.cart-page-bEy .auto-group-bknh-4AV .group-106-3gd {
+  width: 1.15rem;
+  height: 100%;
+  border: solid 0.3rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  flex-shrink: 0;
+}
+.cart-page-bEy .auto-group-bknh-4AV .group-106-3gd .rectangle-10-ofo {
+  width: 100%;
+  height: 1rem;
+  border: solid 0.3rem rgba(158, 0, 255, 0.6000000238);
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  background-color: rgba(46, 53, 218, 0.3000000119);
+}
+.cart-page-bEy .auto-group-bknh-4AV .group-107-uiq {
+  width: 1.15rem;
+  height: 100%;
+  border: solid 0.3rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  flex-shrink: 0;
+}
+.cart-page-bEy .auto-group-bknh-4AV .group-107-uiq .rectangle-10-UG9 {
+  width: 100%;
+  height: 1rem;
+  border: solid 0.3rem rgba(158, 0, 255, 0.6000000238);
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  background-color: rgba(46, 53, 218, 0.3000000119);
+}
+.cart-page-bEy .total-598-space-coin-mFF {
+  margin: 0rem 0rem 2.6rem 24.8rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.756rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cart-page-bEy .auto-group-upgz-Fw7 {
+  margin: 0 2.3rem;
+  width: calc(100% - 4.6rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.cart-page-bEy .auto-group-upgz-Fw7 .group-105-nw3 {
+  margin-right: 17.1915rem;
+  width: 11.6085rem;
+  height: 2.4rem;
+  position: relative;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.cart-page-bEy .auto-group-upgz-Fw7 .group-105-nw3 .rectangle-7-LBs {
+  width: 10.2468rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.3rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 1.2rem;
+}
+.cart-page-bEy .auto-group-upgz-Fw7 .group-105-nw3 .rectangle-10-eTT {
+  width: 10.2468rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.3rem rgba(158, 0, 255, 0.6000000238);
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  background-color: rgba(46, 53, 218, 0.3000000119);
+  border-radius: 1.2rem;
+}
+.cart-page-bEy .auto-group-upgz-Fw7 .group-105-nw3 .home-MMs {
+  width: 7.5rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 0.3rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.756rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cart-page-bEy .auto-group-upgz-Fw7 .auto-group-8jhj-Su7 {
+  margin: 0rem 19.8rem 1.2rem 0rem;
+  width: 16.2rem;
+  height: 2.4rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.864rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.3rem rgba(158, 0, 255, 0.6000000238);
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 1.2rem;
+  background-color: rgba(46, 53, 218, 0.3000000119);
+  flex-shrink: 0;
+}
+.cart-page-bEy .auto-group-upgz-Fw7 .group-104-Ea5 {
+  width: 10.6rem;
+  height: 2.4rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.756rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.3rem rgba(158, 0, 255, 0.6000000238);
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 1.2rem;
+  background-color: rgba(46, 53, 218, 0.3000000119);
+  flex-shrink: 0;
+}

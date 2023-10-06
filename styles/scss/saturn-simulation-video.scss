@@ -1,0 +1,99 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 80rem;
+}.saturn-simulation-video-skm {
+  box-sizing: border-box;
+  display: flex;
+  align-items: flex-end;
+  background-color: #ffffff;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('REPLACE_IMAGE:fad1815bf9ed586aa75fcb1264d5d124c85b9bbc');
+  padding: 31.3rem 3.8rem 2.3rem 2.1rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+
+  .group-85-av5 {
+    margin-right: 51.8915rem;
+    width: 11.6085rem;
+    height: 2.4rem;
+    cursor: pointer;
+    position: relative;
+    border-radius: 1.2rem;
+    flex-shrink: 0;
+
+    .rectangle-7-X4d {
+      width: 10.2468rem;
+      box-shadow: 0 0 1rem #9e00ff;
+      height: 2.4rem;
+      position: absolute;
+      left: 0;
+      top: 0;
+      border: solid 0.3rem #9e00ff;
+      box-sizing: border-box;
+      border-radius: 1.2rem;
+    }
+    .rectangle-10-RA1 {
+      box-shadow: 0 0 1rem #9e00ff;
+      background-color: rgba(46, 53, 218, 0.3000000119);
+      height: 2.4rem;
+      position: absolute;
+      box-sizing: border-box;
+      border: solid 0.3rem rgba(158, 0, 255, 0.6000000238);
+      border-radius: 1.2rem;
+      width: 10.2468rem;
+      left: 0;
+      top: 0;
+    }
+    .home-uqs {
+      font-family: Orbitron, 'Source Sans Pro';
+      white-space: nowrap;
+      width: 7.5rem;
+      position: absolute;
+      font-size: 1.4rem;
+      font-weight: 700;
+      letter-spacing: 0.756rem;
+      height: 1.8rem;
+      left: 1.6rem;
+      top: 0.3rem;
+      line-height: 1.2525;
+      color: #ffffff;
+    }
+  }
+  .group-84-oRT {
+    font-family: Orbitron, 'Source Sans Pro';
+    font-weight: 700;
+    color: #ffffff;
+    border: solid 0.3rem rgba(158, 0, 255, 0.6000000238);
+    box-sizing: border-box;
+    box-shadow: 0 0 1rem #9e00ff;
+    background-color: rgba(46, 53, 218, 0.3000000119);
+    width: 10.6rem;
+    height: 2.4rem;
+    cursor: pointer;
+    font-size: 1.4rem;
+    white-space: nowrap;
+    border-radius: 1.2rem;
+    line-height: 1.2525;
+    letter-spacing: 0.756rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+  }
+}

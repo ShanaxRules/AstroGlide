@@ -1,0 +1,499 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 82.4rem;
+}.android-large-5-XsX {
+  box-sizing: border-box;
+  padding: 2.4rem 1.5rem 1.4rem 1.5rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/front-2-bg.png');
+  background-color: #ffffff;
+}
+.android-large-5-XsX .choose-your-planet-Rxu {
+  margin-bottom: 1.8rem;
+  width: 100%;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.25;
+  letter-spacing: 0.61rem;
+  color: #ffffff;
+  font-family: Oxanium, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.android-large-5-XsX .auto-group-qbmo-vuf {
+  margin: 0rem 9.5rem 0.7rem 3.6rem;
+  width: calc(100% - 13.1rem);
+  height: 13.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.android-large-5-XsX .auto-group-qbmo-vuf .auto-group-1cnh-e4y {
+  width: 18rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.android-large-5-XsX .auto-group-qbmo-vuf .auto-group-1cnh-e4y .auto-group-hygm-ajK {
+  box-sizing: border-box;
+  padding: 0.092rem 2.213rem 0.092rem 2.31rem;
+  width: 100%;
+  height: 11.8rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/front-3-bg-i4y.png');
+  flex-shrink: 0;
+}
+.android-large-5-XsX .auto-group-qbmo-vuf .auto-group-1cnh-e4y .auto-group-hygm-ajK .group-8-7DT {
+  margin-bottom: 0.2288rem;
+  width: 100%;
+  height: 11.3875rem;
+  cursor: pointer;
+  border: solid 0.2rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 2.1rem;
+}
+.android-large-5-XsX .auto-group-qbmo-vuf .auto-group-1cnh-e4y .auto-group-hygm-ajK .group-8-7DT .rectangle-12-rB3 {
+  width: 100%;
+  height: 11.3875rem;
+  border: solid 0.2rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 2.1rem;
+}
+.android-large-5-XsX .auto-group-qbmo-vuf .auto-group-1cnh-e4y .mercury-esb {
+  margin-right: 0.8rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.648rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.android-large-5-XsX .auto-group-qbmo-vuf .auto-group-1xwb-MX7 {
+  box-sizing: border-box;
+  padding: 0.092rem 0rem 0rem 0.5rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.android-large-5-XsX .auto-group-qbmo-vuf .auto-group-1xwb-MX7 .auto-group-14po-Gty {
+  margin-right: 1rem;
+  width: 13.8rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.android-large-5-XsX .auto-group-qbmo-vuf .auto-group-1xwb-MX7 .auto-group-14po-Gty .auto-group-romp-otu {
+  margin-bottom: 0.2rem;
+  width: 100%;
+  height: 11.5082rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.android-large-5-XsX .auto-group-qbmo-vuf .auto-group-1xwb-MX7 .auto-group-14po-Gty .auto-group-romp-otu .front-1-1-MfX {
+  width: 13.8rem;
+  height: 11.4rem;
+  position: absolute;
+  left: 0;
+  top: 0.1082rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.android-large-5-XsX .auto-group-qbmo-vuf .auto-group-1xwb-MX7 .auto-group-14po-Gty .auto-group-romp-otu .group-9-gC1 {
+  width: 13.4765rem;
+  height: 11.3875rem;
+  position: absolute;
+  left: 0.1745rem;
+  top: 0;
+  border: solid 0.2rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 2.1rem;
+}
+.android-large-5-XsX .auto-group-qbmo-vuf .auto-group-1xwb-MX7 .auto-group-14po-Gty .auto-group-romp-otu .group-9-gC1 .rectangle-12-Cg9 {
+  width: 100%;
+  height: 11.3875rem;
+  border: solid 0.2rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 2.1rem;
+}
+.android-large-5-XsX .auto-group-qbmo-vuf .auto-group-1xwb-MX7 .auto-group-14po-Gty .jupiter-SKb {
+  margin-left: 0.1rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.648rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.android-large-5-XsX .auto-group-qbmo-vuf .auto-group-1xwb-MX7 .auto-group-kuqr-wn9 {
+  margin-right: 2.3rem;
+  width: 15.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.android-large-5-XsX .auto-group-qbmo-vuf .auto-group-1xwb-MX7 .auto-group-kuqr-wn9 .front-2-1-Hr1 {
+  width: 15.5rem;
+  height: 11.7rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0.1082rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.android-large-5-XsX .auto-group-qbmo-vuf .auto-group-1xwb-MX7 .auto-group-kuqr-wn9 .group-10-Djf {
+  width: 12.9951rem;
+  height: 11.3875rem;
+  position: absolute;
+  left: 1.2575rem;
+  top: 0;
+  border: solid 0.2rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 2.1rem;
+}
+.android-large-5-XsX .auto-group-qbmo-vuf .auto-group-1xwb-MX7 .auto-group-kuqr-wn9 .group-10-Djf .rectangle-12-kUh {
+  width: 100%;
+  height: 11.3875rem;
+  border: solid 0.2rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 2.1rem;
+}
+.android-large-5-XsX .auto-group-qbmo-vuf .auto-group-1xwb-MX7 .auto-group-kuqr-wn9 .mars-nwB {
+  width: 6rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 4.4rem;
+  top: 11.7082rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.648rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.android-large-5-XsX .auto-group-qbmo-vuf .auto-group-1xwb-MX7 .auto-group-pdg1-5vH {
+  margin-top: 0.0082rem;
+  width: 15.2rem;
+  height: calc(100% - 0.0082rem);
+  position: relative;
+  flex-shrink: 0;
+}
+.android-large-5-XsX .auto-group-qbmo-vuf .auto-group-1xwb-MX7 .auto-group-pdg1-5vH .front-5-2-1ow {
+  width: 15.2rem;
+  height: 12.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.android-large-5-XsX .auto-group-qbmo-vuf .auto-group-1xwb-MX7 .auto-group-pdg1-5vH .group-16-MN1 {
+  width: 11.6954rem;
+  height: 11.4937rem;
+  cursor: pointer;
+  position: absolute;
+  left: 1.2rem;
+  top: 0.3rem;
+  border: solid 0.2rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 2.1rem;
+}
+.android-large-5-XsX .auto-group-qbmo-vuf .auto-group-1xwb-MX7 .auto-group-pdg1-5vH .group-16-MN1 .rectangle-12-UhX {
+  width: 100%;
+  height: 11.4937rem;
+  border: solid 0.2rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 2.1rem;
+}
+.android-large-5-XsX .auto-group-qbmo-vuf .auto-group-1xwb-MX7 .auto-group-pdg1-5vH .uranus-7Vb {
+  width: 8.9rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 3.45rem;
+  top: 11.7rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.648rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.android-large-5-XsX .auto-group-pjjp-nrd {
+  margin-left: 1.2rem;
+  height: 13.8rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.android-large-5-XsX .auto-group-pjjp-nrd .group-32-WXj {
+  margin: 0rem 2.8rem 0.4rem 0rem;
+  width: 10.6rem;
+  height: 2.4rem;
+  cursor: pointer;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.756rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.3rem rgba(158, 0, 255, 0.6000000238);
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 1.2rem;
+  background-color: rgba(46, 53, 218, 0.3000000119);
+  flex-shrink: 0;
+}
+.android-large-5-XsX .auto-group-pjjp-nrd .auto-group-aab7-G9X {
+  width: 14.5rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.android-large-5-XsX .auto-group-pjjp-nrd .auto-group-aab7-G9X .auto-group-bjcu-Pjw {
+  box-sizing: border-box;
+  padding: 0.2rem 0.9rem;
+  width: 100%;
+  height: 12.2rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/front-7-1-bg.png');
+  flex-shrink: 0;
+}
+.android-large-5-XsX .auto-group-pjjp-nrd .auto-group-aab7-G9X .auto-group-bjcu-Pjw .group-12-7A9 {
+  margin: 0rem 1.005rem 0.306rem 0rem;
+  width: 11.6954rem;
+  height: 11.4937rem;
+  border: solid 0.2rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 2.1rem;
+}
+.android-large-5-XsX .auto-group-pjjp-nrd .auto-group-aab7-G9X .auto-group-bjcu-Pjw .group-12-7A9 .rectangle-12-zDw {
+  width: 100%;
+  height: 11.4937rem;
+  border: solid 0.2rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 2.1rem;
+}
+.android-large-5-XsX .auto-group-pjjp-nrd .auto-group-aab7-G9X .venus-ybf {
+  margin-right: 0.4rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.648rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.android-large-5-XsX .auto-group-pjjp-nrd .auto-group-sqwm-HsF {
+  box-sizing: border-box;
+  padding: 0.1rem 0rem 0rem 0.9rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.android-large-5-XsX .auto-group-pjjp-nrd .auto-group-sqwm-HsF .auto-group-3duy-oqb {
+  margin-right: 1.3rem;
+  width: 13.6rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.android-large-5-XsX .auto-group-pjjp-nrd .auto-group-sqwm-HsF .auto-group-3duy-oqb .front-3-1-MMK {
+  width: 13.6rem;
+  height: 12.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.android-large-5-XsX .auto-group-pjjp-nrd .auto-group-sqwm-HsF .auto-group-3duy-oqb .group-14-guP {
+  width: 11.6954rem;
+  height: 11.4937rem;
+  cursor: pointer;
+  position: absolute;
+  left: 1.5343rem;
+  top: 0.287rem;
+  border: solid 0.2rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 2.1rem;
+}
+.android-large-5-XsX .auto-group-pjjp-nrd .auto-group-sqwm-HsF .auto-group-3duy-oqb .group-14-guP .rectangle-12-co3 {
+  width: 100%;
+  height: 11.4937rem;
+  border: solid 0.2rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 2.1rem;
+}
+.android-large-5-XsX .auto-group-pjjp-nrd .auto-group-sqwm-HsF .auto-group-3duy-oqb .neptune-F5K {
+  width: 10.2rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 2rem;
+  top: 12.1rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.648rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.android-large-5-XsX .auto-group-pjjp-nrd .auto-group-sqwm-HsF .auto-group-kjid-WX3 {
+  margin-right: 3.3rem;
+  width: 15.9rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.android-large-5-XsX .auto-group-pjjp-nrd .auto-group-sqwm-HsF .auto-group-kjid-WX3 .front-4-1-SvV {
+  width: 15.9rem;
+  height: 12.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.android-large-5-XsX .auto-group-pjjp-nrd .auto-group-sqwm-HsF .auto-group-kjid-WX3 .group-15-Paq {
+  width: 11.6954rem;
+  height: 11.4937rem;
+  position: absolute;
+  left: 2.2423rem;
+  top: 0.287rem;
+  border: solid 0.2rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 2.1rem;
+}
+.android-large-5-XsX .auto-group-pjjp-nrd .auto-group-sqwm-HsF .auto-group-kjid-WX3 .group-15-Paq .rectangle-12-uZB {
+  width: 100%;
+  height: 11.4937rem;
+  border: solid 0.2rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 2.1rem;
+}
+.android-large-5-XsX .auto-group-pjjp-nrd .auto-group-sqwm-HsF .auto-group-kjid-WX3 .pluto-Mvy {
+  width: 6.8rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 12.1rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.648rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.android-large-5-XsX .auto-group-pjjp-nrd .auto-group-sqwm-HsF .group-33-4aV {
+  margin-bottom: 0.1rem;
+  width: 11.6085rem;
+  height: 2.4rem;
+  cursor: pointer;
+  position: relative;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.android-large-5-XsX .auto-group-pjjp-nrd .auto-group-sqwm-HsF .group-33-4aV .rectangle-7-oHB {
+  width: 10.2468rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.3rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 1.2rem;
+}
+.android-large-5-XsX .auto-group-pjjp-nrd .auto-group-sqwm-HsF .group-33-4aV .rectangle-10-WhP {
+  width: 10.2468rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.3rem rgba(158, 0, 255, 0.6000000238);
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  background-color: rgba(46, 53, 218, 0.3000000119);
+  border-radius: 1.2rem;
+}
+.android-large-5-XsX .auto-group-pjjp-nrd .auto-group-sqwm-HsF .group-33-4aV .home-Qnm {
+  width: 7.5rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 0.3rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.756rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+}

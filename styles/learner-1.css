@@ -1,0 +1,796 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 80rem;
+}.learner-1-Gh7 {
+  width: 100%;
+  height: 36rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.learner-1-Gh7 .beauty-retail-loyalty-card-in-ash-grey-brown-photo-centric-style-business-card-us-1-AGh {
+  width: 80rem;
+  height: 36rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.learner-1-Gh7 .group-7-47B {
+  width: 10.6rem;
+  height: 2.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 67.6rem;
+  top: 31.4rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.756rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.3rem rgba(158, 0, 255, 0.6000000238);
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 1.2rem;
+  background-color: rgba(46, 53, 218, 0.3000000119);
+}
+.learner-1-Gh7 .group-31-DPP {
+  width: 11.6085rem;
+  height: 2.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 1.4rem;
+  top: 31.4rem;
+  border-radius: 1.2rem;
+}
+.learner-1-Gh7 .group-31-DPP .rectangle-7-6xy {
+  width: 10.2468rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.3rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 1.2rem;
+}
+.learner-1-Gh7 .group-31-DPP .rectangle-10-AT3 {
+  width: 10.2468rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.3rem rgba(158, 0, 255, 0.6000000238);
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  background-color: rgba(46, 53, 218, 0.3000000119);
+  border-radius: 1.2rem;
+}
+.learner-1-Gh7 .group-31-DPP .home-DRK {
+  width: 7.5rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 0.3rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.756rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.learner-1-Gh7 .photo-gallery-gJu {
+  width: 8.9rem;
+  height: 8.3rem;
+  position: absolute;
+  left: 4.5rem;
+  top: 6.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.learner-1-Gh7 .retro-tv-oPX {
+  width: 10.1rem;
+  height: 8.4rem;
+  position: absolute;
+  left: 20.2rem;
+  top: 17.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  z-index:1;
+
+}
+.learner-1-Gh7 .blue-rocket-taking-off-imP {
+  width: 11.6983rem;
+  height: 12.1784rem;
+  position: absolute;
+  left: 32.5928rem;
+  top: 4.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  z-index:1;
+
+}
+.learner-1-Gh7 .stack-of-books-ShP {
+  width: 9.4rem;
+  height: 7.5rem;
+  position: absolute;
+  left: 35.4rem;
+  top: 18.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  z-index:1;
+
+}
+.learner-1-Gh7 .rectangle-10-a2u {
+  width: 11.9rem;
+  height: 10.4rem;
+  position: absolute;
+  left: 3rem;
+  top: 6.4rem;
+  border: solid 0.2rem rgba(158, 0, 255, 0.6000000238);
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 1.2rem;
+  z-index:1;
+
+}
+.learner-1-Gh7 .rectangle-16-FPw {
+  width: 11.9rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 3rem;
+  top: 14.6rem;
+  border: solid 0.3rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  background-color: rgba(46, 53, 218, 0.3000000119);
+  border-radius: 1.2rem;
+  z-index:1;
+
+}
+.learner-1-Gh7 .galleries-YnM {
+  width: 10.9rem;
+  height: 1.4rem;
+  position: absolute;
+  left: 3.8rem;
+  top: 14.9rem;
+  font-size: 1.1rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.594rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+  z-index:13;
+
+}
+.learner-1-Gh7 .rectangle-17-2xR {
+  width: 11.8rem;
+  height: 10.4rem;
+  position: absolute;
+  left: 17.9rem;
+  top: 6.4rem;
+  border: solid 0.2rem rgba(158, 0, 255, 0.6000000238);
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 1.2rem;
+  z-index:1;
+
+}
+.learner-1-Gh7 .rectangle-18-8Em {
+  width: 11.8rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 17.9rem;
+  top: 14.6rem;
+  border: solid 0.3rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  background-color: rgba(46, 53, 218, 0.3000000119);
+  border-radius: 1.2rem;
+  z-index:1;
+
+}
+.learner-1-Gh7 .game-pNV {
+  width: 5.9rem;
+  height: 1.4rem;
+  position: absolute;
+  left: 21.25rem;
+  top: 14.9rem;
+  text-align: center;
+  font-size: 1.1rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.594rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+  z-index:1;
+
+}
+.learner-1-Gh7 .rectangle-23-uuj {
+  width: 11.9rem;
+  height: 10.4rem;
+  position: absolute;
+  left: 19.3rem;
+  top: 18.3rem;
+  border: solid 0.2rem rgba(158, 0, 255, 0.6000000238);
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 1.2rem;
+  z-index:1;
+
+}
+.learner-1-Gh7 .rectangle-24-pG1 {
+  width: 11.9rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 19.3rem;
+  top: 26.5rem;
+  border: solid 0.3rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  background-color: rgba(46, 53, 218, 0.3000000119);
+  border-radius: 1.2rem;
+  z-index:1;
+
+}
+.learner-1-Gh7 .nasa-tv-i6V {
+  width: 9.1rem;
+  height: 1.4rem;
+  position: absolute;
+  left: 20.9rem;
+  top: 26.9rem;
+  font-size: 1.1rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.594rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+  z-index:13;
+
+}
+.learner-1-Gh7 .rectangle-25-1rH {
+  width: 11.8rem;
+  height: 10.5rem;
+  position: absolute;
+  left: 32.7rem;
+  top: 6.4rem;
+  border: solid 0.2rem rgba(158, 0, 255, 0.6000000238);
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 1.2rem;
+  z-index:1;
+
+}
+.learner-1-Gh7 .rectangle-26-JKb {
+  width: 11.8rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 32.7rem;
+  top: 14rem;
+  border: solid 0.3rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  background-color: rgba(46, 53, 218, 0.3000000119);
+  border-radius: 1.2rem;
+  z-index:1;
+
+}
+.learner-1-Gh7 .nasas-mission-oGM {
+  width: 8.8rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 34.25rem;
+  top: 14rem;
+  text-align: center;
+  font-size: 1.1rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.594rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  z-index:1;
+
+}
+.learner-1-Gh7 .rectangle-21-5jf {
+  width: 11.9rem;
+  height: 10.4rem;
+  position:absolute;
+  left: 34.2rem;
+  top: 18.3rem;
+  border: solid 0.2rem rgba(158, 0, 255, 0.6000000238);
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 1.2rem;
+  z-index:1;
+}
+.learner-1-Gh7 .rectangle-22-mMb {
+  width: 11.9rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 34.2rem;
+  top: 26.5rem;
+  border: solid 0.3rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  background-color: rgba(46, 53, 218, 0.3000000119);
+  border-radius: 1.2rem;
+  z-index:1;
+
+}
+.learner-1-Gh7 .e-library-TkD {
+  width: 11.3rem;
+  height: 1.4rem;
+  position: absolute;
+  left: 34.7rem;
+  top: 26.8rem;
+  font-size: 1.1rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.594rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+  z-index:3;
+
+}
+.learner-1-Gh7 .rectangle-19-YFs {
+  width: 14.2rem;
+  height: 11.2rem;
+  position: absolute;
+  left: 2.3rem;
+  top: 18rem;
+  border: solid 0.2rem rgba(158, 0, 255, 0.6000000238);
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 1.2rem;
+  z-index:1;
+
+}
+.learner-1-Gh7 .rectangle-20-2Rw {
+  width: 14.2rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 2.3rem;
+  top: 26rem;
+  border: solid 0.3rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  background-color: rgba(46, 53, 218, 0.3000000119);
+  border-radius: 1.2rem;
+  z-index:1;
+
+}
+.learner-1-Gh7 .learn-solar-system-7TP {
+  width: 14rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 2.7rem;
+  top: 26.2rem;
+  text-align: center;
+  font-size: 1.1rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.594rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  z-index:15;
+
+}
+.learner-1-Gh7 .rectangle-27-p6u {
+  width: 13rem;
+  height: 10.9rem;
+  position: absolute;
+  left: 48.9rem;
+  top: 18.2rem;
+  border: solid 0.2rem rgba(158, 0, 255, 0.6000000238);
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 1.2rem;
+  z-index:1;
+
+}
+.learner-1-Gh7 .rectangle-28-iCH {
+  width: 13rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 48.9rem;
+  top: 26.4rem;
+  border: solid 0.3rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  background-color: rgba(46, 53, 218, 0.3000000119);
+  border-radius: 1.2rem;
+  z-index:1;
+
+}
+.learner-1-Gh7 .planet-simulation-nhw {
+  width: 12.3rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 49.25rem;
+  top: 26.2rem;
+  text-align: center;
+  font-size: 1.1rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.594rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  z-index: 22;
+
+}
+.learner-1-Gh7 .planet-earth-rSu {
+  width: 6.9rem;
+  height: 6.5rem;
+  position: absolute;
+  left: 51.4rem;
+  top: 18.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  z-index:1;
+
+}
+.learner-1-Gh7 .rectangle-27-Ng9 {
+  width: 13.9rem;
+  height: 11.4rem;
+  position: absolute;
+  left: 62.7rem;
+  top: 5.9rem;
+  border: solid 0.2rem rgba(158, 0, 255, 0.6000000238);
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 1.2rem;
+  z-index:1;
+
+}
+.learner-1-Gh7 .rectangle-29-H2R {
+  width: 11.9rem;
+  height: 10.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 3rem;
+  top: 6.4rem;
+  border: solid 0.2rem rgba(158, 0, 255, 0.6000000238);
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 1.2rem;
+  z-index:1;
+
+}
+.learner-1-Gh7 .rectangle-30-yA9 {
+  width: 11.8rem;
+  height: 10.4rem;
+  position: absolute;
+  left: 17.9rem;
+  top: 6.4rem;
+  border: solid 0.2rem rgba(158, 0, 255, 0.6000000238);
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 1.2rem;
+  z-index:1;
+
+}
+.learner-1-Gh7 .rectangle-31-5DB {
+  width: 11.9rem;
+  height: 10.4rem;
+  position: absolute;
+  left: 19.3rem;
+  top: 18.3rem;
+  border: solid 0.2rem rgba(158, 0, 255, 0.6000000238);
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 1.2rem;
+  z-index:1;
+
+}
+.learner-1-Gh7 .rectangle-32-y3f {
+  width: 11.8rem;
+  height: 10.5rem;
+  position: absolute;
+  left: 32.7rem;
+  top: 6.4rem;
+  border: solid 0.2rem rgba(158, 0, 255, 0.6000000238);
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 1.2rem;
+  z-index:1;
+
+}
+.learner-1-Gh7 .rectangle-33-fSH {
+  width: 11.9rem;
+  height: 10.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 34.2rem;
+  top: 18.3rem;
+  border: solid 0.2rem rgba(158, 0, 255, 0.6000000238);
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 1.2rem;
+  z-index:1;
+
+}
+.learner-1-Gh7 .rectangle-34-AP3 {
+  width: 14.2rem;
+  height: 11.2rem;
+  position: absolute;
+  left: 2.3rem;
+  top: 18rem;
+  border: solid 0.2rem rgba(158, 0, 255, 0.6000000238);
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 1.2rem;
+  z-index:1;
+
+}
+.learner-1-Gh7 .rectangle-35-GBB {
+  width: 13rem;
+  height: 10.9rem;
+  cursor: pointer;
+  position: absolute;
+  left: 48.9rem;
+  top: 18.2rem;
+  border: solid 0.2rem rgba(158, 0, 255, 0.6000000238);
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 1.2rem;
+  z-index:1;
+
+}
+.learner-1-Gh7 .rectangle-36-9km {
+  width: 13.9rem;
+  height: 11.4rem;
+  position: absolute;
+  left: 62.7rem;
+  top: 5.9rem;
+  border: solid 0.2rem rgba(158, 0, 255, 0.6000000238);
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 1.2rem;
+  z-index:1;
+
+}
+.learner-1-Gh7 .rectangle-28-2pZ {
+  width: 13.9rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 62.7rem;
+  top: 14rem;
+  border: solid 0.3rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  background-color: rgba(46, 53, 218, 0.3000000119);
+  border-radius: 1.2rem;
+  z-index:1;
+
+}
+.learner-1-Gh7 .eyes-on-the-solar-system-VTF {
+  width: 13.9rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 62.65rem;
+  top: 14.3rem;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.54rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  z-index:1;
+
+}
+.learner-1-Gh7 .blue-planet-with-moon-xrd {
+  width: 11.6rem;
+  height: 6.7rem;
+  position: absolute;
+  left: 63.8rem;
+  top: 6.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.learner-1-Gh7 .rectangle-37-V5s {
+  width: 11.8rem;
+  height: 10.4rem;
+  position: absolute;
+  left: 47.7rem;
+  top: 6.4rem;
+  border: solid 0.2rem rgba(158, 0, 255, 0.6000000238);
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 1.2rem;
+  z-index:1;
+
+
+}
+.learner-1-Gh7 .rectangle-38-6LZ {
+  width: 11.8rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 47.7rem;
+  top: 14.6rem;
+  border: solid 0.3rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  background-color: rgba(46, 53, 218, 0.3000000119);
+  border-radius: 1.2rem;
+  z-index:1;
+
+}
+.learner-1-Gh7 .chatbox-C8h {
+  width: 9.3rem;
+  height: 1.4rem;
+  position: absolute;
+  left: 49.3rem;
+  top: 14.9rem;
+  font-size: 1.1rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.594rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+  z-index:13;
+
+}
+.learner-1-Gh7 .rectangle-39-4gh {
+  width: 11.8rem;
+  height: 10.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 47.7rem;
+  top: 6.4rem;
+  border: solid 0.2rem rgba(158, 0, 255, 0.6000000238);
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 1.2rem;
+  z-index:1;
+
+}
+.learner-1-Gh7 .chatbot-W2u {
+  width: 11.7rem;
+  height: 9rem;
+  position: absolute;
+  left: 47.8rem;
+  top: 5.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  z-index:1;
+
+}
+.learner-1-Gh7 .rectangle-40-c5w {
+  width: 11.8rem;
+  height: 10.4rem;
+  position: absolute;
+  left: 64.6rem;
+  top: 18.8rem;
+  border: solid 0.2rem rgba(158, 0, 255, 0.6000000238);
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 1.2rem;
+  z-index:1;
+
+}
+.learner-1-Gh7 .rectangle-41-uKw {
+  width: 11.8rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 64.6rem;
+  top: 27rem;
+  border: solid 0.3rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  background-color: rgba(46, 53, 218, 0.3000000119);
+  border-radius: 1.2rem;
+  z-index:1;
+
+}
+.learner-1-Gh7 .calculate-PF7 {
+  width: 11.3rem;
+  height: 1.4rem;
+  position: absolute;
+  left: 65.1rem;
+  top: 27.3rem;
+  font-size: 1.1rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.594rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+  z-index:18;
+
+}
+.learner-1-Gh7 .rectangle-42-tSm {
+  width: 11.8rem;
+  height: 10.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 64.6rem;
+  top: 18.8rem;
+  border: solid 0.2rem rgba(158, 0, 255, 0.6000000238);
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 1.2rem;
+  z-index:1;
+
+}
+.learner-1-Gh7 .calculator-b6H {
+  width: 8.4rem;
+  height: 7.3rem;
+  position: absolute;
+  left: 66.2rem;
+  top: 19rem;
+  object-fit: contain;
+  vertical-align: top;
+  z-index:1;
+
+}
+.learner-1-Gh7 .group-52-7qK {
+  box-sizing: border-box;
+  padding: 0.3rem 0rem 0.3rem 4.3rem;
+  width: 17.5rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 2.3rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.756rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.3rem rgba(158, 0, 255, 0.6000000238);
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 0.7rem;
+  background-color: rgba(46, 53, 218, 0.3000000119);
+  z-index:1;
+
+}
+.learner-1-Gh7 .space-exploration-rocket-flies-over-the-planet-59s {
+  width: 10.4rem;
+  height: 7.8rem;
+  position: relative;
+  left: 4.5rem;
+  top: 18rem;
+  background-size: 102.507% 129.487%;
+  background-position: -0.3838rem -0.7833rem;
+  background-image: url('../assets/space-exploration-rocket-flies-over-the-planet.png');
+}
+.learner-1-Gh7 .game-controller-vRP {
+  width: 12.1rem;
+  height: 8.9rem;
+  position: absolute;
+  left: 17.7rem;
+  top: 6.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.dpd{
+  z-index: 1;
+}

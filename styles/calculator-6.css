@@ -1,0 +1,144 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 80rem;
+}.calculator-6-zG9 {
+  box-sizing: border-box;
+  padding: 2.2rem 1.9rem 1.9rem 2.6rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/screen-0-1-bg-G6V.png');
+  background-color: #ffffff;
+}
+.calculator-6-zG9 .group-85-Jnd {
+  margin: 0rem 21.6rem 4.2rem 21rem;
+  box-sizing: border-box;
+  padding: 0 1.3rem;
+  width: calc(100% - 42.6rem);
+  height: 2.4rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.18rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.3rem rgba(158, 0, 255, 0.6000000238);
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 0.7rem;
+  background-color: rgba(46, 53, 218, 0.3000000119);
+  flex-shrink: 0;
+}
+.calculator-6-zG9 .the-distance-between-these-points-is-73668-km-rxZ {
+  margin: 0rem 0.6rem 0.7rem 0rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.16rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.calculator-6-zG9 .draw-1-wz1 {
+  margin: 0rem 0.7rem 0.9rem 0rem;
+  width: 38.6rem;
+  height: 19.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.calculator-6-zG9 .auto-group-vphb-scm {
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.calculator-6-zG9 .auto-group-vphb-scm .auto-group-hwd7-2Em {
+  margin: 0rem 60.5rem 0.4rem 0rem;
+  width: 7.1rem;
+  height: 1.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.calculator-6-zG9 .auto-group-vphb-scm .auto-group-hwd7-2Em .rectangle-15-94V {
+  width: 7.1rem;
+  height: 1.8rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  border: solid 0.3rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 0.7rem;
+}
+.calculator-6-zG9 .auto-group-vphb-scm .auto-group-hwd7-2Em .home-3ff {
+  width: 5.1rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 0.9rem;
+  top: 0;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.14rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.calculator-6-zG9 .auto-group-vphb-scm .auto-group-u6w1-vzM {
+  width: 7.9rem;
+  height: 1.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.calculator-6-zG9 .auto-group-vphb-scm .auto-group-u6w1-vzM .rectangle-16-sub {
+  width: 7.9rem;
+  height: 1.6rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  border: solid 0.3rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 0.7rem;
+}
+.calculator-6-zG9 .auto-group-vphb-scm .auto-group-u6w1-vzM .back-ap1 {
+  width: 4.5rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 1.7rem;
+  top: 0;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.14rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+}

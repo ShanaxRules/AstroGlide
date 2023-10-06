@@ -1,0 +1,436 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 80rem;
+}.assistant-Mvh {
+  width: 100%;
+  height: 36rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+}
+.assistant-Mvh .auto-group-jqyf-WYh {
+  width: 82.9rem;
+  height: 100%;
+  position: relative;
+}
+.assistant-Mvh .auto-group-jqyf-WYh .group-43-G25 {
+  width: 80rem;
+  height: 36rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/saturn-details-and-route.png');
+}
+.assistant-Mvh .auto-group-jqyf-WYh .group-43-G25 .group-41-ySH {
+  width: 17.2rem;
+  height: 2.2rem;
+  cursor: pointer;
+  position: absolute;
+  left: 62rem;
+  top: 7.1rem;
+  border-radius: 1.2rem;
+}
+.assistant-Mvh .auto-group-jqyf-WYh .group-43-G25 .group-41-ySH .rectangle-7-JUZ {
+  width: 16.7rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.3rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 1.2rem;
+}
+.assistant-Mvh .auto-group-jqyf-WYh .group-43-G25 .group-41-ySH .rectangle-10-D5j {
+  width: 16.7rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 1.2rem;
+}
+.assistant-Mvh .auto-group-jqyf-WYh .group-43-G25 .group-41-ySH .customize-Lw3 {
+  width: 15.1rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 1.3rem;
+  top: 0.2rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.756rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assistant-Mvh .auto-group-jqyf-WYh .group-43-G25 .group-54-pbK {
+  width: 16.8rem;
+  height: 2.2rem;
+  cursor: pointer;
+  position: absolute;
+  left: 31.1rem;
+  top: 31.6rem;
+  border-radius: 1.2rem;
+}
+.assistant-Mvh .auto-group-jqyf-WYh .group-43-G25 .group-54-pbK .rectangle-7-kE5 {
+  width: 16.7rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.3rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 1.2rem;
+}
+.assistant-Mvh .auto-group-jqyf-WYh .group-43-G25 .group-54-pbK .rectangle-10-3DB {
+  width: 16.7rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 1.2rem;
+}
+.assistant-Mvh .auto-group-jqyf-WYh .group-43-G25 .group-54-pbK .space-suit-aD7 {
+  width: 16rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 0.8rem;
+  top: 0.3rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.756rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assistant-Mvh .auto-group-jqyf-WYh .group-43-G25 .rectangle-7-TGu {
+  width: 16.4rem;
+  height: 2rem;
+  position: absolute;
+  left: 62rem;
+  top: 11.3rem;
+  border: solid 0.3rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 1.2rem;
+}
+.assistant-Mvh .auto-group-jqyf-WYh .group-43-G25 .rectangle-10-MdB {
+  width: 16.4rem;
+  height: 2rem;
+  position: absolute;
+  left: 62rem;
+  top: 11.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 1.2rem;
+}
+.assistant-Mvh .auto-group-jqyf-WYh .group-43-G25 .book-gQZ {
+  width: 7.3rem;
+  height: 1.8rem;
+  cursor: pointer;
+  position: absolute;
+  left: 67.7303rem;
+  top: 11.4rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.56rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assistant-Mvh .auto-group-jqyf-WYh .group-43-G25 .group-52-y8m {
+  width: 10.6rem;
+  height: 2.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 68.1rem;
+  top: 31.4rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.756rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.3rem rgba(158, 0, 255, 0.6000000238);
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 1.2rem;
+  background-color: rgba(46, 53, 218, 0.3000000119);
+}
+.assistant-Mvh .auto-group-jqyf-WYh .group-43-G25 .group-53-MQD {
+  width: 11.6085rem;
+  height: 2.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 2.8rem;
+  top: 31.4rem;
+  border-radius: 1.2rem;
+}
+.assistant-Mvh .auto-group-jqyf-WYh .group-43-G25 .group-53-MQD .rectangle-7-H2y {
+  width: 10.2468rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.3rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 1.2rem;
+}
+.assistant-Mvh .auto-group-jqyf-WYh .group-43-G25 .group-53-MQD .rectangle-10-bJZ {
+  width: 10.2468rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.3rem rgba(158, 0, 255, 0.6000000238);
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  background-color: rgba(46, 53, 218, 0.3000000119);
+  border-radius: 1.2rem;
+}
+.assistant-Mvh .auto-group-jqyf-WYh .group-43-G25 .group-53-MQD .home-tYZ {
+  width: 7.5rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 0.3rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.756rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assistant-Mvh .auto-group-jqyf-WYh .group-43-G25 .need-help-ask-ai-PER {
+  width: 13.4rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 64.8rem;
+  top: 26.7rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assistant-Mvh .auto-group-jqyf-WYh .group-43-G25 .chatbot-gjK {
+  width: 10rem;
+  height: 6.6rem;
+  position: absolute;
+  left: 66.9rem;
+  top: 20.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.assistant-Mvh .auto-group-jqyf-WYh .group-43-G25 .group-55-QvD {
+  width: 1.4rem;
+  height: 1.2rem;
+  position: absolute;
+  left: 17.6rem;
+  top: 9rem;
+  border: solid 0.3rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+}
+.assistant-Mvh .auto-group-jqyf-WYh .group-43-G25 .group-55-QvD .rectangle-10-YmX {
+  width: 100%;
+  height: 1.2rem;
+  border: solid 0.3rem rgba(158, 0, 255, 0.6000000238);
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  background-color: rgba(46, 53, 218, 0.3000000119);
+}
+.assistant-Mvh .auto-group-jqyf-WYh .group-43-G25 .vector-2-3TP {
+  width: 5.4rem;
+  height: 0;
+  position: absolute;
+  left: 19.3rem;
+  top: 9.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.assistant-Mvh .auto-group-jqyf-WYh .group-43-G25 .vector-3-NVf {
+  width: 5.4rem;
+  height: 0;
+  position: absolute;
+  left: 19.3rem;
+  top: 9.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.assistant-Mvh .auto-group-jqyf-WYh .group-43-G25 .group-89-v1P {
+  width: 35.7rem;
+  height: 9.8rem;
+  position: absolute;
+  left: 21.8rem;
+  top: 6rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.7rem;
+}
+.assistant-Mvh .auto-group-jqyf-WYh .group-43-G25 .group-90-RTw {
+  width: 1.4rem;
+  height: 1.2rem;
+  position: absolute;
+  left: 12.1rem;
+  top: 21.8rem;
+  border: solid 0.3rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+}
+.assistant-Mvh .auto-group-jqyf-WYh .group-43-G25 .group-90-RTw .rectangle-10-xCy {
+  width: 100%;
+  height: 1.2rem;
+  border: solid 0.3rem rgba(158, 0, 255, 0.6000000238);
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  background-color: rgba(46, 53, 218, 0.3000000119);
+}
+.assistant-Mvh .auto-group-jqyf-WYh .group-43-G25 .vector-4-FSy {
+  width: 5.4rem;
+  height: 0;
+  position: absolute;
+  left: 13.8rem;
+  top: 22.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.assistant-Mvh .auto-group-jqyf-WYh .group-43-G25 .vector-5-bFw {
+  width: 5.4rem;
+  height: 0;
+  position: absolute;
+  left: 13.8rem;
+  top: 22.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.assistant-Mvh .auto-group-jqyf-WYh .group-43-G25 .group-91-92Z {
+  width: 35.4rem;
+  height: 9.8rem;
+  position: absolute;
+  left: 16.6rem;
+  top: 18.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.7rem;
+}
+.assistant-Mvh .auto-group-jqyf-WYh .group-43-G25 .day-107-hours-year-29-earth-years-planet-type-gas-giant-moons-83-environment-ringed-stormy-gaseous-49X {
+  width: 21.8rem;
+  height: 9.1rem;
+  position: absolute;
+  left: 27rem;
+  top: 6.3rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.2525;
+  letter-spacing: 0.048rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+}
+.assistant-Mvh .auto-group-jqyf-WYh .group-43-G25 .best-places-in-staurn-rings-of-saturn-titan-enceladus-rhea-dione-Uyw {
+  width: 14.7rem;
+  height: 10.6rem;
+  position: absolute;
+  left: 25.8rem;
+  top: 18.7rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+}
+.assistant-Mvh .auto-group-jqyf-WYh .group-43-LWM {
+  width: 18.7rem;
+  height: 2.2rem;
+  cursor: pointer;
+  position: absolute;
+  left: 62rem;
+  top: 3rem;
+  border-radius: 1.2rem;
+}
+.assistant-Mvh .auto-group-jqyf-WYh .group-43-LWM .rectangle-7-g4R {
+  width: 16.7rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.3rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 1.2rem;
+}
+.assistant-Mvh .auto-group-jqyf-WYh .group-43-LWM .rectangle-10-n7T {
+  width: 16.7rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 1.2rem;
+}
+.assistant-Mvh .auto-group-jqyf-WYh .group-43-LWM .dangers-X53 {
+  width: 12.8rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 2.8rem;
+  top: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.756rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.assistant-Mvh .auto-group-jqyf-WYh .group-52-1F7 {
+  box-sizing: border-box;
+  padding: 0.2rem 0.5rem 0.1rem 3.1rem;
+  width: 16.6rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 1.8rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.864rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.3rem rgba(158, 0, 255, 0.6000000238);
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 0.7rem;
+  background-color: rgba(46, 53, 218, 0.3000000119);
+}

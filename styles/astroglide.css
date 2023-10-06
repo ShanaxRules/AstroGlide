@@ -1,0 +1,27 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 193.5rem;
+}.astroglide-MLV {
+  width: 100%;
+  height: 18.8rem;
+  font-size: 15rem;
+  font-weight: 900;
+  line-height: 1.2525;
+  letter-spacing: 8.1rem;
+  color: #000000;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+}

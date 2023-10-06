@@ -1,0 +1,416 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 80rem;
+}.add-to-cart-bhT {
+  box-sizing: border-box;
+  padding: 1.2rem 6rem 3.9rem 12.1rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/add-to-cart-bg.png');
+  background-color: #ffffff;
+}
+.add-to-cart-bhT .auto-group-kwrs-WpR {
+  margin: 0rem 16.2rem 1.2rem 12.4rem;
+  width: calc(100% - 28.6rem);
+  height: 2.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.add-to-cart-bhT .auto-group-kwrs-WpR .group-85-d8M {
+  width: 0;
+  height: 2.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.add-to-cart-bhT .auto-group-kwrs-WpR .group-89-A8H {
+  width: 0.8rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 0.3rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.add-to-cart-bhT .auto-group-kwrs-WpR .group-86-hP7 {
+  width: 0;
+  height: 2.7rem;
+  position: absolute;
+  left: 1.3rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.add-to-cart-bhT .auto-group-kwrs-WpR .group-87-3Sy {
+  width: 0;
+  height: 2.7rem;
+  position: absolute;
+  left: 32rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.add-to-cart-bhT .auto-group-kwrs-WpR .group-90-bDb {
+  width: 0;
+  height: 2.7rem;
+  position: absolute;
+  left: 32.2rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.add-to-cart-bhT .auto-group-kwrs-WpR .group-88-LS5 {
+  width: 0;
+  height: 2.7rem;
+  position: absolute;
+  left: 33.3rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.add-to-cart-bhT .auto-group-kwrs-WpR .group-91-tCh {
+  width: 0;
+  height: 2.7rem;
+  position: absolute;
+  left: 33.1rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.add-to-cart-bhT .auto-group-kwrs-WpR .choose-your-planet-2Ju {
+  width: 29.3rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 2rem;
+  top: 0.3rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.25;
+  letter-spacing: 0.61rem;
+  color: #ffffff;
+  font-family: Oxanium, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.add-to-cart-bhT .auto-group-a8tf-uNh {
+  margin-left: 3.4rem;
+  width: calc(100% - 3.4rem);
+  height: 11.8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.add-to-cart-bhT .auto-group-a8tf-uNh .auto-group-pbbj-Rrq {
+  box-sizing: border-box;
+  padding: 0.092rem 2.213rem 0.092rem 2.31rem;
+  width: 18rem;
+  height: 100%;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/front-3-bg-673.png');
+  flex-shrink: 0;
+}
+.add-to-cart-bhT .auto-group-a8tf-uNh .auto-group-pbbj-Rrq .group-8-9H3 {
+  margin-bottom: 0.2288rem;
+  width: 100%;
+  height: 11.3875rem;
+  cursor: pointer;
+  border: solid 0.2rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 2.1rem;
+}
+.add-to-cart-bhT .auto-group-a8tf-uNh .auto-group-pbbj-Rrq .group-8-9H3 .rectangle-12-syj {
+  width: 100%;
+  height: 11.3875rem;
+  border: solid 0.2rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 2.1rem;
+}
+.add-to-cart-bhT .auto-group-a8tf-uNh .auto-group-bmux-u9j {
+  box-sizing: border-box;
+  padding: 0.092rem 0rem 0rem 0.5rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.add-to-cart-bhT .auto-group-a8tf-uNh .auto-group-bmux-u9j .auto-group-xjc9-Rtm {
+  margin: 0rem 0.9rem 0.2rem 0rem;
+  width: 13.8rem;
+  height: 11.5082rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.add-to-cart-bhT .auto-group-a8tf-uNh .auto-group-bmux-u9j .auto-group-xjc9-Rtm .front-1-1-x81 {
+  width: 13.8rem;
+  height: 11.4rem;
+  position: absolute;
+  left: 0;
+  top: 0.1082rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.add-to-cart-bhT .auto-group-a8tf-uNh .auto-group-bmux-u9j .auto-group-xjc9-Rtm .group-9-gZo {
+  width: 13.4765rem;
+  height: 11.3875rem;
+  position: absolute;
+  left: 0.1745rem;
+  top: 0;
+  border: solid 0.2rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 2.1rem;
+}
+.add-to-cart-bhT .auto-group-a8tf-uNh .auto-group-bmux-u9j .auto-group-xjc9-Rtm .group-9-gZo .rectangle-12-ciM {
+  width: 100%;
+  height: 11.3875rem;
+  border: solid 0.2rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 2.1rem;
+}
+.add-to-cart-bhT .auto-group-a8tf-uNh .auto-group-bmux-u9j .auto-group-rflh-Tiy {
+  width: 25.3rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.add-to-cart-bhT .auto-group-a8tf-uNh .auto-group-bmux-u9j .auto-group-rflh-Tiy .front-2-1-1Vb {
+  width: 15.5rem;
+  height: 11.7rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0.0082rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.add-to-cart-bhT .auto-group-a8tf-uNh .auto-group-bmux-u9j .auto-group-rflh-Tiy .front-6-1-8q7 {
+  width: 19.9rem;
+  height: 11.3rem;
+  cursor: pointer;
+  position: absolute;
+  left: 5.4rem;
+  top: 0.4082rem;
+}
+.add-to-cart-bhT .auto-group-a8tf-uNh .auto-group-bmux-u9j .auto-group-rflh-Tiy .group-10-fKF {
+  width: 12.9951rem;
+  height: 11.3875rem;
+  position: absolute;
+  left: 1.3575rem;
+  top: 0;
+  border: solid 0.2rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 2.1rem;
+}
+.add-to-cart-bhT .auto-group-a8tf-uNh .auto-group-bmux-u9j .auto-group-rflh-Tiy .group-10-fKF .rectangle-12-oAZ {
+  width: 100%;
+  height: 11.3875rem;
+  border: solid 0.2rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 2.1rem;
+}
+.add-to-cart-bhT .auto-group-xlr9-EFs {
+  margin: 0rem 14.8rem 0.9rem 6.9rem;
+  width: calc(100% - 21.7rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.add-to-cart-bhT .auto-group-xlr9-EFs .mercury-kV7 {
+  margin-right: 7.05rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.648rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.add-to-cart-bhT .auto-group-xlr9-EFs .jupiter-3UD {
+  margin-right: 7.55rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.648rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.add-to-cart-bhT .auto-group-xlr9-EFs .mars-kdX {
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.648rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.add-to-cart-bhT .auto-group-zegd-UJd {
+  margin-right: 4.6rem;
+  width: calc(100% - 4.6rem);
+  height: 12.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.add-to-cart-bhT .auto-group-zegd-UJd .auto-group-nxqq-Qi5 {
+  margin: 0.1rem 0.1rem 0.2rem 0rem;
+  width: 27.3rem;
+  height: calc(100% - 0.3rem);
+  position: relative;
+  flex-shrink: 0;
+}
+.add-to-cart-bhT .auto-group-zegd-UJd .auto-group-nxqq-Qi5 .front-3-1-jEZ {
+  width: 13.6rem;
+  height: 12.2rem;
+  position: absolute;
+  left: 13.7rem;
+  top: 0.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.add-to-cart-bhT .auto-group-zegd-UJd .auto-group-nxqq-Qi5 .front-7-1-ecR {
+  width: 14.5rem;
+  height: 12.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.add-to-cart-bhT .auto-group-zegd-UJd .auto-group-nxqq-Qi5 .group-12-zgH {
+  width: 11.6954rem;
+  height: 11.4937rem;
+  position: absolute;
+  left: 0.9rem;
+  top: 0.2rem;
+  border: solid 0.2rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 2.1rem;
+}
+.add-to-cart-bhT .auto-group-zegd-UJd .auto-group-nxqq-Qi5 .group-12-zgH .rectangle-12-8Gh {
+  width: 100%;
+  height: 11.4937rem;
+  border: solid 0.2rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 2.1rem;
+}
+.add-to-cart-bhT .auto-group-zegd-UJd .auto-group-nxqq-Qi5 .group-14-nc9 {
+  width: 11.6954rem;
+  height: 11.4937rem;
+  cursor: pointer;
+  position: absolute;
+  left: 15.2343rem;
+  top: 0.387rem;
+  border: solid 0.2rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 2.1rem;
+}
+.add-to-cart-bhT .auto-group-zegd-UJd .auto-group-nxqq-Qi5 .group-14-nc9 .rectangle-12-WHF {
+  width: 100%;
+  height: 11.4937rem;
+  border: solid 0.2rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 2.1rem;
+}
+.add-to-cart-bhT .auto-group-zegd-UJd .auto-group-vdcy-kxH {
+  width: 29.9rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.add-to-cart-bhT .auto-group-zegd-UJd .auto-group-vdcy-kxH .front-4-1-Vus {
+  width: 15.9rem;
+  height: 12.4rem;
+  position: absolute;
+  left: 0;
+  top: 0.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.add-to-cart-bhT .auto-group-zegd-UJd .auto-group-vdcy-kxH .front-5-1-3Ah {
+  width: 15.2rem;
+  height: 12.6rem;
+  position: absolute;
+  left: 14.7rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.add-to-cart-bhT .auto-group-zegd-UJd .auto-group-vdcy-kxH .group-15-aAd {
+  width: 11.6954rem;
+  height: 11.4937rem;
+  position: absolute;
+  left: 2.2423rem;
+  top: 0.487rem;
+  border: solid 0.2rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 2.1rem;
+}
+.add-to-cart-bhT .auto-group-zegd-UJd .auto-group-vdcy-kxH .group-15-aAd .rectangle-12-7AZ {
+  width: 100%;
+  height: 11.4937rem;
+  border: solid 0.2rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 2.1rem;
+}
+.add-to-cart-bhT .auto-group-zegd-UJd .auto-group-vdcy-kxH .group-16-kUR {
+  width: 11.6954rem;
+  height: 11.4937rem;
+  position: absolute;
+  left: 16.166rem;
+  top: 0.487rem;
+  border: solid 0.2rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 2.1rem;
+}
+.add-to-cart-bhT .auto-group-zegd-UJd .auto-group-vdcy-kxH .group-16-kUR .rectangle-12-HUM {
+  width: 100%;
+  height: 11.4937rem;
+  border: solid 0.2rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 2.1rem;
+}

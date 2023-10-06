@@ -1,0 +1,390 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 80rem;
+}.steoller-booking-2-Yfj {
+  box-sizing: border-box;
+  padding: 1rem 1.6rem 1.5rem 0rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  background-color: #ffffff;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/steoller-booking-2-bg.png');
+}
+.steoller-booking-2-Yfj .auto-group-7l5b-TGu {
+  margin: 0rem 1.3rem 1rem 0rem;
+  width: 18.1rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.steoller-booking-2-Yfj .auto-group-7l5b-TGu .auto-group-w3kh-Zqj {
+  margin-bottom: 15.2rem;
+  width: 100%;
+  height: 2.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.steoller-booking-2-Yfj .auto-group-7l5b-TGu .auto-group-w3kh-Zqj .group-54-VzH {
+  width: 18.1rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-43-gPT.png');
+}
+.steoller-booking-2-Yfj .auto-group-7l5b-TGu .auto-group-w3kh-Zqj .group-54-VzH .rectangle-44-Egy {
+  width: 18.1rem;
+  height: 2.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.steoller-booking-2-Yfj .auto-group-7l5b-TGu .auto-group-w3kh-Zqj .booking-w5b {
+  width: 11.7rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 1.1rem;
+  top: 0.3rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.64rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.steoller-booking-2-Yfj .auto-group-7l5b-TGu .item--Mf7 {
+  margin: 0rem 1.4rem 9.2rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: 0.32rem;
+  color: #ffffff;
+  font-family: Oxanium, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.steoller-booking-2-Yfj .auto-group-7l5b-TGu .group-53-1Um {
+  margin-right: 0.5915rem;
+  width: 11.6085rem;
+  height: 2.4rem;
+  cursor: pointer;
+  position: relative;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.steoller-booking-2-Yfj .auto-group-7l5b-TGu .group-53-1Um .rectangle-7-Xi1 {
+  width: 10.2468rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.3rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 1.2rem;
+}
+.steoller-booking-2-Yfj .auto-group-7l5b-TGu .group-53-1Um .rectangle-10-2uf {
+  width: 10.2468rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.3rem rgba(158, 0, 255, 0.6000000238);
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  background-color: rgba(46, 53, 218, 0.3000000119);
+  border-radius: 1.2rem;
+}
+.steoller-booking-2-Yfj .auto-group-7l5b-TGu .group-53-1Um .home-vk9 {
+  width: 7.5rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 0.3rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.756rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.steoller-booking-2-Yfj .auto-group-5unu-CxZ {
+  margin-right: 1.1rem;
+  width: 50.7rem;
+  height: 33.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.steoller-booking-2-Yfj .auto-group-5unu-CxZ .itinerary-w9T {
+  margin: 0rem 0rem 1.7rem 3.9rem;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2525;
+  letter-spacing: 0.4rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.steoller-booking-2-Yfj .auto-group-5unu-CxZ .auto-group-xz6m-S6D {
+  width: 100%;
+  height: 29.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.steoller-booking-2-Yfj .auto-group-5unu-CxZ .auto-group-xz6m-S6D .group-55-m8V {
+  width: 9.9rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 6.2rem;
+  top: 0;
+  border-radius: 0.7rem;
+}
+.steoller-booking-2-Yfj .auto-group-5unu-CxZ .auto-group-xz6m-S6D .group-55-m8V .group-52-VqB {
+  width: 100%;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.28rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.3rem rgba(158, 0, 255, 0.6000000238);
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 0.7rem;
+  background-color: rgba(46, 53, 218, 0.3000000119);
+}
+.steoller-booking-2-Yfj .auto-group-5unu-CxZ .auto-group-xz6m-S6D .group-52-Ux1 {
+  box-sizing: border-box;
+  padding: 0rem 0.7rem 0rem 2.4rem;
+  width: 9.9rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 33.6rem;
+  top: 0;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.28rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.3rem rgba(158, 0, 255, 0.6000000238);
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 0.7rem;
+  background-color: rgba(46, 53, 218, 0.3000000119);
+}
+.steoller-booking-2-Yfj .auto-group-5unu-CxZ .auto-group-xz6m-S6D .group-56-Gcy {
+  width: 6.2rem;
+  height: 20.5rem;
+  position: absolute;
+  left: 0;
+  top: 0.9rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-80-eo3.png');
+}
+.steoller-booking-2-Yfj .auto-group-5unu-CxZ .auto-group-xz6m-S6D .group-56-Gcy .vector-81-1Kf {
+  width: 6.2rem;
+  height: 20.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.steoller-booking-2-Yfj .auto-group-5unu-CxZ .auto-group-xz6m-S6D .group-57-wDK {
+  width: 6.2rem;
+  height: 20.5rem;
+  position: absolute;
+  left: 27.4rem;
+  top: 0.9rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-80-HWy.png');
+}
+.steoller-booking-2-Yfj .auto-group-5unu-CxZ .auto-group-xz6m-S6D .group-57-wDK .vector-81-54d {
+  width: 6.2rem;
+  height: 20.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.steoller-booking-2-Yfj .auto-group-5unu-CxZ .auto-group-xz6m-S6D .cost-500-space-coin-Q6u {
+  width: 23rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 13.5rem;
+  top: 23.8rem;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.2525;
+  letter-spacing: 0.28rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.steoller-booking-2-Yfj .auto-group-5unu-CxZ .auto-group-xz6m-S6D .group-61-HgV {
+  width: 25.7rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 11.7rem;
+  top: 26.4rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.64rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  background-color: rgba(46, 53, 218, 0.150000006);
+  border-radius: 0.6rem;
+}
+.steoller-booking-2-Yfj .auto-group-5unu-CxZ .auto-group-xz6m-S6D .morning-arrive-at-the-asteroid-belt-participate-in-hands-on-asteroid-mining-workshops-afternoon-mine-for-valuable-minerals-on-a-nearby-asteroid-evening-reflect-on-the-days-experiences-during-a-space-themed-dinner-689 {
+  width: 22.4rem;
+  height: 25.5rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 2.6rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0.24rem;
+  color: #ffffff;
+  font-family: Oxanium, 'Source Sans Pro';
+}
+.steoller-booking-2-Yfj .auto-group-5unu-CxZ .auto-group-xz6m-S6D .morning-arrive-at-the-asteroid-belt-participate-in-hands-on-asteroid-mining-workshops-afternoon-mine-for-valuable-minerals-on-a-nearby-asteroid-evening-reflect-on-the-days-experiences-during-a-space-themed-dinner-689 .morning-arrive-at-the-asteroid-belt-participate-in-hands-on-asteroid-mining-workshops-afternoon-mine-for-valuable-minerals-on-a-nearby-asteroid-evening-reflect-on-the-days-experiences-during-a-space-themed-dinner-689-sub-0 {
+  font-size: 1.2rem;
+  font-weight: 800;
+  line-height: 1.25;
+  letter-spacing: 0.24rem;
+  color: #ffffff;
+  font-family: Oxanium, 'Source Sans Pro';
+}
+.steoller-booking-2-Yfj .auto-group-5unu-CxZ .auto-group-xz6m-S6D .morning-arrive-at-the-asteroid-belt-participate-in-hands-on-asteroid-mining-workshops-afternoon-mine-for-valuable-minerals-on-a-nearby-asteroid-evening-reflect-on-the-days-experiences-during-a-space-themed-dinner-689 .morning-arrive-at-the-asteroid-belt-participate-in-hands-on-asteroid-mining-workshops-afternoon-mine-for-valuable-minerals-on-a-nearby-asteroid-evening-reflect-on-the-days-experiences-during-a-space-themed-dinner-689-sub-1 {
+}
+.steoller-booking-2-Yfj .auto-group-5unu-CxZ .auto-group-xz6m-S6D .morning-arrive-at-the-asteroid-belt-participate-in-hands-on-asteroid-mining-workshops-afternoon-mine-for-valuable-minerals-on-a-nearby-asteroid-evening-reflect-on-the-days-experiences-during-a-space-themed-dinner-689 .morning-arrive-at-the-asteroid-belt-participate-in-hands-on-asteroid-mining-workshops-afternoon-mine-for-valuable-minerals-on-a-nearby-asteroid-evening-reflect-on-the-days-experiences-during-a-space-themed-dinner-689-sub-2 {
+  font-size: 1.2rem;
+  font-weight: 800;
+  line-height: 1.25;
+  letter-spacing: 0.24rem;
+  color: #ffffff;
+  font-family: Oxanium, 'Source Sans Pro';
+}
+.steoller-booking-2-Yfj .auto-group-5unu-CxZ .auto-group-xz6m-S6D .morning-arrive-at-the-asteroid-belt-participate-in-hands-on-asteroid-mining-workshops-afternoon-mine-for-valuable-minerals-on-a-nearby-asteroid-evening-reflect-on-the-days-experiences-during-a-space-themed-dinner-689 .morning-arrive-at-the-asteroid-belt-participate-in-hands-on-asteroid-mining-workshops-afternoon-mine-for-valuable-minerals-on-a-nearby-asteroid-evening-reflect-on-the-days-experiences-during-a-space-themed-dinner-689-sub-3 {
+}
+.steoller-booking-2-Yfj .auto-group-5unu-CxZ .auto-group-xz6m-S6D .morning-arrive-at-the-asteroid-belt-participate-in-hands-on-asteroid-mining-workshops-afternoon-mine-for-valuable-minerals-on-a-nearby-asteroid-evening-reflect-on-the-days-experiences-during-a-space-themed-dinner-689 .morning-arrive-at-the-asteroid-belt-participate-in-hands-on-asteroid-mining-workshops-afternoon-mine-for-valuable-minerals-on-a-nearby-asteroid-evening-reflect-on-the-days-experiences-during-a-space-themed-dinner-689-sub-4 {
+  font-size: 1.2rem;
+  font-weight: 800;
+  line-height: 1.25;
+  letter-spacing: 0.24rem;
+  color: #ffffff;
+  font-family: Oxanium, 'Source Sans Pro';
+}
+.steoller-booking-2-Yfj .auto-group-5unu-CxZ .auto-group-xz6m-S6D .morning-arrive-at-the-asteroid-belt-participate-in-hands-on-asteroid-mining-workshops-afternoon-mine-for-valuable-minerals-on-a-nearby-asteroid-evening-reflect-on-the-days-experiences-during-a-space-themed-dinner-689 .morning-arrive-at-the-asteroid-belt-participate-in-hands-on-asteroid-mining-workshops-afternoon-mine-for-valuable-minerals-on-a-nearby-asteroid-evening-reflect-on-the-days-experiences-during-a-space-themed-dinner-689-sub-5 {
+}
+.steoller-booking-2-Yfj .auto-group-5unu-CxZ .auto-group-xz6m-S6D .morning-attend-a-debriefing-session-with-fellow-travelers-afternoon-witness-the-spectacular-view-of-earth-from-space-evening-safely-land-back-on-earth-farewell-dinner-and-certificates-of-completion-Q4H {
+  width: 22rem;
+  height: 23.8rem;
+  position: absolute;
+  left: 28.7rem;
+  top: 2.9rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0.24rem;
+  color: #ffffff;
+  font-family: Oxanium, 'Source Sans Pro';
+}
+.steoller-booking-2-Yfj .auto-group-5unu-CxZ .auto-group-xz6m-S6D .morning-attend-a-debriefing-session-with-fellow-travelers-afternoon-witness-the-spectacular-view-of-earth-from-space-evening-safely-land-back-on-earth-farewell-dinner-and-certificates-of-completion-Q4H .morning-attend-a-debriefing-session-with-fellow-travelers-afternoon-witness-the-spectacular-view-of-earth-from-space-evening-safely-land-back-on-earth-farewell-dinner-and-certificates-of-completion-Q4H-sub-0 {
+  font-size: 1.2rem;
+  font-weight: 800;
+  line-height: 1.25;
+  letter-spacing: 0.24rem;
+  color: #ffffff;
+  font-family: Oxanium, 'Source Sans Pro';
+}
+.steoller-booking-2-Yfj .auto-group-5unu-CxZ .auto-group-xz6m-S6D .morning-attend-a-debriefing-session-with-fellow-travelers-afternoon-witness-the-spectacular-view-of-earth-from-space-evening-safely-land-back-on-earth-farewell-dinner-and-certificates-of-completion-Q4H .morning-attend-a-debriefing-session-with-fellow-travelers-afternoon-witness-the-spectacular-view-of-earth-from-space-evening-safely-land-back-on-earth-farewell-dinner-and-certificates-of-completion-Q4H-sub-1 {
+  font-size: 1.1rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0.24rem;
+  color: #ffffff;
+  font-family: Oxanium, 'Source Sans Pro';
+}
+.steoller-booking-2-Yfj .auto-group-5unu-CxZ .auto-group-xz6m-S6D .morning-attend-a-debriefing-session-with-fellow-travelers-afternoon-witness-the-spectacular-view-of-earth-from-space-evening-safely-land-back-on-earth-farewell-dinner-and-certificates-of-completion-Q4H .morning-attend-a-debriefing-session-with-fellow-travelers-afternoon-witness-the-spectacular-view-of-earth-from-space-evening-safely-land-back-on-earth-farewell-dinner-and-certificates-of-completion-Q4H-sub-2 {
+  font-size: 1.2rem;
+  font-weight: 800;
+  line-height: 1.25;
+  letter-spacing: 0.24rem;
+  color: #ffffff;
+  font-family: Oxanium, 'Source Sans Pro';
+}
+.steoller-booking-2-Yfj .auto-group-5unu-CxZ .auto-group-xz6m-S6D .morning-attend-a-debriefing-session-with-fellow-travelers-afternoon-witness-the-spectacular-view-of-earth-from-space-evening-safely-land-back-on-earth-farewell-dinner-and-certificates-of-completion-Q4H .morning-attend-a-debriefing-session-with-fellow-travelers-afternoon-witness-the-spectacular-view-of-earth-from-space-evening-safely-land-back-on-earth-farewell-dinner-and-certificates-of-completion-Q4H-sub-3 {
+}
+.steoller-booking-2-Yfj .auto-group-5unu-CxZ .auto-group-xz6m-S6D .morning-attend-a-debriefing-session-with-fellow-travelers-afternoon-witness-the-spectacular-view-of-earth-from-space-evening-safely-land-back-on-earth-farewell-dinner-and-certificates-of-completion-Q4H .morning-attend-a-debriefing-session-with-fellow-travelers-afternoon-witness-the-spectacular-view-of-earth-from-space-evening-safely-land-back-on-earth-farewell-dinner-and-certificates-of-completion-Q4H-sub-4 {
+  font-size: 1.2rem;
+  font-weight: 800;
+  line-height: 1.25;
+  letter-spacing: 0.24rem;
+  color: #ffffff;
+  font-family: Oxanium, 'Source Sans Pro';
+}
+.steoller-booking-2-Yfj .auto-group-5unu-CxZ .auto-group-xz6m-S6D .morning-attend-a-debriefing-session-with-fellow-travelers-afternoon-witness-the-spectacular-view-of-earth-from-space-evening-safely-land-back-on-earth-farewell-dinner-and-certificates-of-completion-Q4H .morning-attend-a-debriefing-session-with-fellow-travelers-afternoon-witness-the-spectacular-view-of-earth-from-space-evening-safely-land-back-on-earth-farewell-dinner-and-certificates-of-completion-Q4H-sub-5 {
+}
+.steoller-booking-2-Yfj .group-52-MQm {
+  margin-bottom: 1rem;
+  width: 10.6rem;
+  height: 2.4rem;
+  cursor: pointer;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.756rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.3rem rgba(158, 0, 255, 0.6000000238);
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 1.2rem;
+  background-color: rgba(46, 53, 218, 0.3000000119);
+  flex-shrink: 0;
+}

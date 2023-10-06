@@ -1,0 +1,529 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 80rem;
+}.calculator-LDF {
+  width: 100%;
+  height: 36rem;
+  position: relative;
+  overflow: hidden;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/screen-0-1-bg.png');
+  background-color: #ffffff;
+}
+.calculator-LDF .group-85-fmK {
+  box-sizing: border-box;
+  padding: 0 1.3rem;
+  width: 32.9rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 23.6rem;
+  top: 2.2rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.18rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.3rem rgba(158, 0, 255, 0.6000000238);
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 0.7rem;
+  background-color: rgba(46, 53, 218, 0.3000000119);
+}
+.calculator-LDF .group-86-ET3 {
+  width: 37.3rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 17.8rem;
+  top: 8.8rem;
+  border: solid 0.3rem rgba(158, 0, 255, 0.6000000238);
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  background-color: rgba(46, 53, 218, 0.3000000119);
+}
+.calculator-LDF .group-86-ET3 .rectangle-7-9pu {
+  width: 10.9rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 1.3rem;
+  top: 0.9rem;
+  border: solid 0.3rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 0.7rem;
+}
+.calculator-LDF .group-86-ET3 .earth-T4u {
+  width: 6.4rem;
+  height: 1.4rem;
+  position: absolute;
+  left: 1.7rem;
+  top: 1.4rem;
+  text-align: center;
+  font-size: 1.1rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.594rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.calculator-LDF .group-86-ET3 .rectangle-52-kZo {
+  width: 3.2rem;
+  height: 2.6rem;
+  cursor: pointer;
+  position: absolute;
+  left: 9rem;
+  top: 0.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.calculator-LDF .group-86-ET3 .chevron-down-H3w {
+  width: 1.9rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 9.8rem;
+  top: 1.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.calculator-LDF .group-87-kCR {
+  box-sizing: border-box;
+  padding: 0.1rem 0.55rem 1.3rem 0.55rem;
+  width: 37.3rem;
+  height: 8rem;
+  position: absolute;
+  left: 17.8rem;
+  top: 16.1rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.3rem rgba(158, 0, 255, 0.6000000238);
+  box-shadow: 0 0 1rem #9e00ff;
+  background-color: rgba(46, 53, 218, 0.3000000119);
+}
+.calculator-LDF .group-87-kCR .auto-group-hgqb-E7b {
+  margin: 0rem 6.6rem 0.3rem 9.4rem;
+  width: calc(100% - 16rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.calculator-LDF .group-87-kCR .auto-group-hgqb-E7b .latitude-9kM {
+  margin: 0.1rem 7.1rem 0rem 0rem;
+  text-align: center;
+  font-size: 1.1rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.11rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.calculator-LDF .group-87-kCR .auto-group-hgqb-E7b .longitude-SzM {
+  margin-bottom: 0.1rem;
+  text-align: center;
+  font-size: 1.1rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.11rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.calculator-LDF .group-87-kCR .auto-group-rpuh-MrR {
+  margin: 0rem 4.55rem 1rem 0rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.calculator-LDF .group-87-kCR .auto-group-rpuh-MrR .point-1-t5f {
+  margin: 0.2rem 2.55rem 0rem 0rem;
+  text-align: center;
+  font-size: 1.1rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.11rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.calculator-LDF .group-87-kCR .auto-group-rpuh-MrR .auto-group-pvnd-aDP {
+  margin: 0.1rem 2.6rem 0rem 0rem;
+  width: 10.9rem;
+  height: 1.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.calculator-LDF .group-87-kCR .auto-group-rpuh-MrR .auto-group-pvnd-aDP .item-23877337-VbF {
+  width: 8.7rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 0.55rem;
+  top: 0.3rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.12rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.calculator-LDF .group-87-kCR .auto-group-rpuh-MrR .auto-group-pvnd-aDP .rectangle-11-PAq {
+  width: 10.9rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.3rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+}
+.calculator-LDF .group-87-kCR .auto-group-rpuh-MrR .auto-group-ushs-Vjf {
+  margin-bottom: 0.2rem;
+  width: 10.9rem;
+  height: 1.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.calculator-LDF .group-87-kCR .auto-group-rpuh-MrR .auto-group-ushs-Vjf .item-90320224-qYd {
+  width: 9.3rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 0.8rem;
+  top: 0.2rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.12rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.calculator-LDF .group-87-kCR .auto-group-rpuh-MrR .auto-group-ushs-Vjf .rectangle-12-je1 {
+  width: 10.9rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.3rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+}
+.calculator-LDF .group-87-kCR .auto-group-awed-rTj {
+  margin-right: 4.55rem;
+  height: 1.8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.calculator-LDF .group-87-kCR .auto-group-awed-rTj .point-2-nsB {
+  margin-right: 2.05rem;
+  text-align: center;
+  font-size: 1.1rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.11rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.calculator-LDF .group-87-kCR .auto-group-awed-rTj .auto-group-jtss-WYH {
+  margin-right: 2.6rem;
+  width: 10.9rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.calculator-LDF .group-87-kCR .auto-group-awed-rTj .auto-group-jtss-WYH .item-90320224-32R {
+  width: 9.3rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 0.5rem;
+  top: 0.2rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.12rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.calculator-LDF .group-87-kCR .auto-group-awed-rTj .auto-group-jtss-WYH .rectangle-14-hcm {
+  width: 10.9rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.3rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+}
+.calculator-LDF .group-87-kCR .auto-group-awed-rTj .auto-group-apcd-R2y {
+  width: 10.9rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.calculator-LDF .group-87-kCR .auto-group-awed-rTj .auto-group-apcd-R2y .item-23877337-MxD {
+  width: 8.7rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 1.05rem;
+  top: 0.1rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.12rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.calculator-LDF .group-87-kCR .auto-group-awed-rTj .auto-group-apcd-R2y .rectangle-13-duj {
+  width: 10.9rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.3rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+}
+.calculator-LDF .planet-HjP {
+  width: 5.1rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 17.65rem;
+  top: 6.4rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.12rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.calculator-LDF .auto-group-bfdw-z81 {
+  width: 10.6rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 17.9rem;
+  top: 26.8rem;
+  display: flex;
+  align-items: center;
+}
+.calculator-LDF .auto-group-bfdw-z81 .auto-group-jvvz-7TX {
+  margin-right: 0.35rem;
+  box-sizing: border-box;
+  padding: 0.5rem;
+  height: 100%;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/round-bg.png');
+  flex-shrink: 0;
+}
+.calculator-LDF .auto-group-bfdw-z81 .auto-group-jvvz-7TX .item-100-F3w {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.calculator-LDF .auto-group-bfdw-z81 .mi-M6y {
+  margin: 0rem 1.05rem 0.2rem 0rem;
+  text-align: center;
+  font-size: 1.1rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.11rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.calculator-LDF .auto-group-bfdw-z81 .round-rJd {
+  margin-right: 0.3rem;
+  width: 2.6rem;
+  height: 2.6rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.calculator-LDF .auto-group-bfdw-z81 .km-yu3 {
+  margin-bottom: 0.2rem;
+  text-align: center;
+  font-size: 1.1rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.11rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.calculator-LDF .display-distances-in-uGu {
+  width: 16.8rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 17.6rem;
+  top: 25rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.12rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.calculator-LDF .point-coordinates-bfX {
+  width: 14.1rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 17.45rem;
+  top: 13.7rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.12rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.calculator-LDF .auto-group-bqgq-hCm {
+  width: 57.2rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 18.4rem;
+  top: 31.7rem;
+  display: flex;
+  align-items: flex-start;
+}
+.calculator-LDF .auto-group-bqgq-hCm .auto-group-wwny-DS1 {
+  margin-right: 4.2rem;
+  width: 6.9rem;
+  height: 1.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.calculator-LDF .auto-group-bqgq-hCm .auto-group-wwny-DS1 .rectangle-15-Yz5 {
+  width: 6.9rem;
+  height: 1.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  border: solid 0.3rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 0.7rem;
+}
+.calculator-LDF .auto-group-bqgq-hCm .auto-group-wwny-DS1 .submit-2uF {
+  width: 4.9rem;
+  height: 1.4rem;
+  position: absolute;
+  left: 0.95rem;
+  top: 0;
+  text-align: center;
+  font-size: 1.1rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.11rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.calculator-LDF .auto-group-bqgq-hCm .auto-group-csnr-jof {
+  margin-right: 32.2rem;
+  width: 6.9rem;
+  height: 1.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.calculator-LDF .auto-group-bqgq-hCm .auto-group-csnr-jof .rectangle-16-UmF {
+  width: 6.9rem;
+  height: 1.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  border: solid 0.3rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 0.7rem;
+}
+.calculator-LDF .auto-group-bqgq-hCm .auto-group-csnr-jof .reset-PdK {
+  width: 4.2rem;
+  height: 1.4rem;
+  position: absolute;
+  left: 1.35rem;
+  top: 0;
+  text-align: center;
+  font-size: 1.1rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.11rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.calculator-LDF .auto-group-bqgq-hCm .auto-group-lpxz-JEV {
+  margin-top: 0.8rem;
+  width: 7rem;
+  height: 1.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.calculator-LDF .auto-group-bqgq-hCm .auto-group-lpxz-JEV .rectangle-17-Rpu {
+  width: 7rem;
+  height: 1.6rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  border: solid 0.3rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 0.7rem;
+}
+.calculator-LDF .auto-group-bqgq-hCm .auto-group-lpxz-JEV .back-wYM {
+  width: 4.5rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 1.15rem;
+  top: 0;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.14rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+}

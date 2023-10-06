@@ -1,0 +1,22 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 199.3rem;
+}.rectangle-55-585 {
+  width: 100%;
+  height: 49.2rem;
+  background-color: #9e00ff;
+  border-radius: 22.2rem;
+}

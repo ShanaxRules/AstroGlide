@@ -1,0 +1,428 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 80rem;
+}.calculator-7-hMj {
+  width: 100%;
+  height: 36rem;
+  position: relative;
+  overflow: hidden;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/screen-0-1-bg-qNR.png');
+  background-color: #ffffff;
+}
+.calculator-7-hMj .group-85-2Q1 {
+  box-sizing: border-box;
+  padding: 0 1.3rem;
+  width: 32.9rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 23.6rem;
+  top: 2.2rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.18rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.3rem rgba(158, 0, 255, 0.6000000238);
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 0.7rem;
+  background-color: rgba(46, 53, 218, 0.3000000119);
+}
+.calculator-7-hMj .group-86-Aed {
+  width: 37.3rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 17.8rem;
+  top: 8.8rem;
+  border: solid 0.3rem rgba(158, 0, 255, 0.6000000238);
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  background-color: rgba(46, 53, 218, 0.3000000119);
+}
+.calculator-7-hMj .group-86-Aed .rectangle-7-gss {
+  width: 10.9rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 1.3rem;
+  top: 0.9rem;
+  border: solid 0.3rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 0.7rem;
+}
+.calculator-7-hMj .group-86-Aed .earth-aiM {
+  width: 6.4rem;
+  height: 1.4rem;
+  position: absolute;
+  left: 1.7rem;
+  top: 1.4rem;
+  text-align: center;
+  font-size: 1.1rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.594rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.calculator-7-hMj .group-86-Aed .rectangle-52-sSZ {
+  width: 3.2rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 9rem;
+  top: 0.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.calculator-7-hMj .group-86-Aed .chevron-down-o5K {
+  width: 1.9rem;
+  height: 1.9rem;
+  cursor: pointer;
+  position: absolute;
+  left: 9.8rem;
+  top: 1.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.calculator-7-hMj .group-87-erd {
+  box-sizing: border-box;
+  padding: 0.1rem 0.55rem 1.3rem 0.55rem;
+  width: 37.3rem;
+  height: 8rem;
+  position: absolute;
+  left: 17.8rem;
+  top: 16.1rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.3rem rgba(158, 0, 255, 0.6000000238);
+  box-shadow: 0 0 1rem #9e00ff;
+  background-color: rgba(46, 53, 218, 0.3000000119);
+}
+.calculator-7-hMj .group-87-erd .auto-group-ejav-XfX {
+  margin: 0rem 6.6rem 0.3rem 9.4rem;
+  width: calc(100% - 16rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.calculator-7-hMj .group-87-erd .auto-group-ejav-XfX .latitude-FLd {
+  margin: 0.1rem 7.1rem 0rem 0rem;
+  text-align: center;
+  font-size: 1.1rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.11rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.calculator-7-hMj .group-87-erd .auto-group-ejav-XfX .longitude-MPf {
+  margin-bottom: 0.1rem;
+  text-align: center;
+  font-size: 1.1rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.11rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.calculator-7-hMj .group-87-erd .auto-group-bqzd-TxV {
+  margin: 0rem 4.55rem 1.1rem 0rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.calculator-7-hMj .group-87-erd .auto-group-bqzd-TxV .point-1-zxR {
+  margin: 0rem 2.55rem 0.1rem 0rem;
+  text-align: center;
+  font-size: 1.1rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.11rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.calculator-7-hMj .group-87-erd .auto-group-bqzd-TxV .rectangle-11-JCR {
+  margin-right: 2.6rem;
+  width: 10.9rem;
+  height: 1.8rem;
+  border: solid 0.3rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  flex-shrink: 0;
+}
+.calculator-7-hMj .group-87-erd .auto-group-bqzd-TxV .rectangle-12-pAm {
+  margin-bottom: 0.1rem;
+  width: 10.9rem;
+  height: 1.8rem;
+  border: solid 0.3rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  flex-shrink: 0;
+}
+.calculator-7-hMj .group-87-erd .auto-group-ly4q-imw {
+  margin-right: 4.55rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.calculator-7-hMj .group-87-erd .auto-group-ly4q-imw .point-2-fBP {
+  margin-right: 2.05rem;
+  text-align: center;
+  font-size: 1.1rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.11rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.calculator-7-hMj .group-87-erd .auto-group-ly4q-imw .rectangle-14-n17 {
+  margin-right: 2.6rem;
+  width: 10.9rem;
+  height: 1.8rem;
+  border: solid 0.3rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  flex-shrink: 0;
+}
+.calculator-7-hMj .group-87-erd .auto-group-ly4q-imw .rectangle-13-JVF {
+  width: 10.9rem;
+  height: 1.8rem;
+  border: solid 0.3rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  flex-shrink: 0;
+}
+.calculator-7-hMj .planet-AXT {
+  width: 5.1rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 17.65rem;
+  top: 6.4rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.12rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.calculator-7-hMj .auto-group-jrvf-rfB {
+  width: 10.6rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 17.9rem;
+  top: 26.8rem;
+  display: flex;
+  align-items: center;
+}
+.calculator-7-hMj .auto-group-jrvf-rfB .auto-group-jiz9-BSZ {
+  margin-right: 0.35rem;
+  box-sizing: border-box;
+  padding: 0.5rem;
+  height: 100%;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/round-bg-ECH.png');
+  flex-shrink: 0;
+}
+.calculator-7-hMj .auto-group-jrvf-rfB .auto-group-jiz9-BSZ .item-100-XWR {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.calculator-7-hMj .auto-group-jrvf-rfB .mi-Efj {
+  margin: 0rem 1.05rem 0.2rem 0rem;
+  text-align: center;
+  font-size: 1.1rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.11rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.calculator-7-hMj .auto-group-jrvf-rfB .round-9Xo {
+  margin-right: 0.3rem;
+  width: 2.6rem;
+  height: 2.6rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.calculator-7-hMj .auto-group-jrvf-rfB .km-Ua5 {
+  margin-bottom: 0.2rem;
+  text-align: center;
+  font-size: 1.1rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.11rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.calculator-7-hMj .display-distances-in-Axh {
+  width: 16.8rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 17.6rem;
+  top: 25rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.12rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.calculator-7-hMj .point-coordinates-TB7 {
+  width: 14.1rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 17.45rem;
+  top: 13.7rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.12rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.calculator-7-hMj .auto-group-qesh-9Zj {
+  width: 58.9rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 18.4rem;
+  top: 31.3rem;
+  display: flex;
+  align-items: center;
+}
+.calculator-7-hMj .auto-group-qesh-9Zj .auto-group-yddw-g3s {
+  box-sizing: border-box;
+  padding: 0.4rem 30.3rem 0.5rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.calculator-7-hMj .auto-group-qesh-9Zj .auto-group-yddw-g3s .auto-group-nlkd-DJh {
+  margin-right: 4.2rem;
+  width: 6.9rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.calculator-7-hMj .auto-group-qesh-9Zj .auto-group-yddw-g3s .auto-group-nlkd-DJh .rectangle-15-Mfo {
+  width: 6.9rem;
+  height: 1.4rem;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  border: solid 0.3rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 0.7rem;
+}
+.calculator-7-hMj .auto-group-qesh-9Zj .auto-group-yddw-g3s .auto-group-nlkd-DJh .submit-Sx9 {
+  width: 4.9rem;
+  height: 1.4rem;
+  position: absolute;
+  left: 0.95rem;
+  top: 0;
+  text-align: center;
+  font-size: 1.1rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.11rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.calculator-7-hMj .auto-group-qesh-9Zj .auto-group-yddw-g3s .auto-group-15y7-x9o {
+  width: 6.9rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.calculator-7-hMj .auto-group-qesh-9Zj .auto-group-yddw-g3s .auto-group-15y7-x9o .rectangle-16-ht5 {
+  width: 6.9rem;
+  height: 1.4rem;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  border: solid 0.3rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 0.7rem;
+}
+.calculator-7-hMj .auto-group-qesh-9Zj .auto-group-yddw-g3s .auto-group-15y7-x9o .reset-cVF {
+  width: 4.2rem;
+  height: 1.4rem;
+  position: absolute;
+  left: 1.35rem;
+  top: 0;
+  text-align: center;
+  font-size: 1.1rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.11rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.calculator-7-hMj .auto-group-qesh-9Zj .group-57-K8m {
+  width: 10.6rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.756rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.3rem rgba(158, 0, 255, 0.6000000238);
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 1.2rem;
+  background-color: rgba(46, 53, 218, 0.3000000119);
+  flex-shrink: 0;
+}

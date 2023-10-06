@@ -1,0 +1,123 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 80rem;
+}.login-9QM {
+  box-sizing: border-box;
+  padding: 22.1rem 31rem 3.8rem 33.7rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/bg-28Z.png');
+  background-color: #ffffff;
+}
+.login-9QM .group-8-2j3 {
+  margin-bottom: 3.5rem;
+  width: 100%;
+  height: 3.3rem;
+  cursor: pointer;
+  position: relative;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.login-9QM .group-8-2j3 .rectangle-7-k9F {
+  width: 12.2rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.3rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 1.2rem;
+}
+.login-9QM .group-8-2j3 .rectangle-10-3u3 {
+  width: 12.2rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.3rem rgba(158, 0, 255, 0.6000000238);
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  background-color: rgba(46, 53, 218, 0.3000000119);
+  border-radius: 1.2rem;
+}
+.login-9QM .group-8-2j3 .signup-Y57 {
+  width: 12.1rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 0.5rem;
+  top: 0.6rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.864rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.login-9QM .group-7-Qt1 {
+  margin-right: 2.8rem;
+  width: 12.5rem;
+  height: 3.3rem;
+  cursor: pointer;
+  position: relative;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.login-9QM .group-7-Qt1 .rectangle-7-jfP {
+  width: 12.2rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.3rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 1.2rem;
+}
+.login-9QM .group-7-Qt1 .rectangle-10-e1f {
+  width: 12.2rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.3rem rgba(158, 0, 255, 0.6000000238);
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  background-color: rgba(46, 53, 218, 0.3000000119);
+  border-radius: 1.2rem;
+}
+.login-9QM .group-7-Qt1 .login-8Sd {
+  width: 9.9rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 1.7rem;
+  top: 0.6rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.864rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+}

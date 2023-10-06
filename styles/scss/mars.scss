@@ -1,0 +1,103 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 80rem;
+}.mars-bvy {
+  width: 100%;
+  height: 36rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+
+  .mars-65129-1080p-1-kYy {
+    height: 36rem;
+    position: absolute;
+    left: 0;
+    top: 0;
+    object-fit: cover;
+    vertical-align: top;
+    width: 80rem;
+  }
+  .group-56-5LM {
+    left: 67.4rem;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    box-sizing: border-box;
+    height: 2.4rem;
+    cursor: pointer;
+    position: absolute;
+    border-radius: 1.2rem;
+    border: solid 0.3rem rgba(158, 0, 255, 0.6000000238);
+    width: 10.6rem;
+    letter-spacing: 0.756rem;
+    line-height: 1.2525;
+    color: #ffffff;
+    font-family: Orbitron, 'Source Sans Pro';
+    white-space: nowrap;
+    align-items: center;
+    box-shadow: 0 0 1rem #9e00ff;
+    top: 31.1rem;
+    font-size: 1.4rem;
+    background-color: rgba(46, 53, 218, 0.3000000119);
+  }
+  .group-57-3Rb {
+    top: 31.1rem;
+    border-radius: 1.2rem;
+    width: 11.6085rem;
+    height: 2.4rem;
+    cursor: pointer;
+    position: absolute;
+    left: 2.1rem;
+
+    .rectangle-7-mMb {
+      left: 0;
+      top: 0;
+      box-shadow: 0 0 1rem #9e00ff;
+      border-radius: 1.2rem;
+      width: 10.2468rem;
+      height: 2.4rem;
+      position: absolute;
+      border: solid 0.3rem #9e00ff;
+      box-sizing: border-box;
+    }
+    .rectangle-10-svR {
+      width: 10.2468rem;
+      border: solid 0.3rem rgba(158, 0, 255, 0.6000000238);
+      box-shadow: 0 0 1rem #9e00ff;
+      box-sizing: border-box;
+      background-color: rgba(46, 53, 218, 0.3000000119);
+      border-radius: 1.2rem;
+      height: 2.4rem;
+      position: absolute;
+      left: 0;
+      top: 0;
+    }
+    .home-APj {
+      position: absolute;
+      top: 0.3rem;
+      font-size: 1.4rem;
+      color: #ffffff;
+      letter-spacing: 0.756rem;
+      font-family: Orbitron, 'Source Sans Pro';
+      white-space: nowrap;
+      width: 7.5rem;
+      height: 1.8rem;
+      left: 1.6rem;
+      font-weight: 700;
+      line-height: 1.2525;
+    }
+  }
+}

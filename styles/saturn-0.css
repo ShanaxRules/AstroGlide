@@ -1,0 +1,389 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 80rem;
+}.saturn-0-iUq {
+  box-sizing: border-box;
+  padding: 1.7rem 2.1rem 2.6rem 2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/bg.png');
+  background-color: #ffffff;
+}
+.saturn-0-iUq .group-62-DwP {
+  margin: 0rem 34.6rem 1.1rem 29.2rem;
+  box-sizing: border-box;
+  padding: 0.1rem 0.7rem 0rem 1.1rem;
+  width: calc(100% - 63.8rem);
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.56rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.2rem #9e00ff;
+  box-shadow: 0 0 1rem #9e00ff;
+  background-color: rgba(46, 53, 218, 0.150000006);
+  flex-shrink: 0;
+}
+.saturn-0-iUq .auto-group-qhcr-mrR {
+  margin: 0rem 5.37rem 1.9rem 1rem;
+  width: calc(100% - 6.3698rem);
+  height: 11.3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.saturn-0-iUq .auto-group-qhcr-mrR .auto-group-bz49-UVw {
+  width: 16.4rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.saturn-0-iUq .auto-group-qhcr-mrR .auto-group-bz49-UVw .group-68-pZo {
+  width: 14.7055rem;
+  height: 9.8752rem;
+  position: absolute;
+  left: 1.6917rem;
+  top: 1.4073rem;
+  border: solid 0.2rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  background-color: rgba(46, 53, 218, 0.150000006);
+}
+.saturn-0-iUq .auto-group-qhcr-mrR .auto-group-bz49-UVw .group-68-pZo .rectangle-44-kTT {
+  width: 100%;
+  height: 9.8752rem;
+  border: solid 0.2rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  background-color: rgba(46, 53, 218, 0.150000006);
+}
+.saturn-0-iUq .auto-group-qhcr-mrR .auto-group-bz49-UVw .group-62-py7 {
+  width: 6.2rem;
+  height: 9.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-80-JsB.png');
+}
+.saturn-0-iUq .auto-group-qhcr-mrR .auto-group-bz49-UVw .group-62-py7 .vector-81-NUq {
+  width: 6.2rem;
+  height: 9.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.saturn-0-iUq .auto-group-qhcr-mrR .auto-group-bz49-UVw .saturn-1-VpM {
+  width: 14.7rem;
+  height: 9.9rem;
+  position: absolute;
+  left: 1.7rem;
+  top: 1.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.saturn-0-iUq .auto-group-qhcr-mrR .auto-group-azim-oq3 {
+  box-sizing: border-box;
+  padding: 1.3rem 0rem 0.017rem 3.003rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.saturn-0-iUq .auto-group-qhcr-mrR .auto-group-azim-oq3 .group-67-ix1 {
+  margin-right: 2.8917rem;
+  width: 14.7055rem;
+  height: 9.8752rem;
+  border: solid 0.2rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  background-color: rgba(46, 53, 218, 0.150000006);
+  flex-shrink: 0;
+}
+.saturn-0-iUq .auto-group-qhcr-mrR .auto-group-azim-oq3 .group-67-ix1 .saturnfamily-1-roK {
+  width: 14.7rem;
+  height: 9.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.saturn-0-iUq .auto-group-qhcr-mrR .auto-group-azim-oq3 .auto-group-xfxz-LCh {
+  margin: 0rem 3.005rem 0.083rem 0rem;
+  width: 14.8193rem;
+  height: 9.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.saturn-0-iUq .auto-group-qhcr-mrR .auto-group-azim-oq3 .auto-group-xfxz-LCh .group-65-eUH {
+  width: 14.7055rem;
+  height: 9.8752rem;
+  position: absolute;
+  left: 0.1138rem;
+  top: 0;
+  border: solid 0.2rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  background-color: rgba(46, 53, 218, 0.150000006);
+}
+.saturn-0-iUq .auto-group-qhcr-mrR .auto-group-azim-oq3 .auto-group-xfxz-LCh .group-65-eUH .rectangle-44-z2M {
+  width: 100%;
+  height: 9.8752rem;
+  border: solid 0.2rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  background-color: rgba(46, 53, 218, 0.150000006);
+}
+.saturn-0-iUq .auto-group-qhcr-mrR .auto-group-azim-oq3 .auto-group-xfxz-LCh .saturnringsfalse-1-sM3 {
+  width: 14.8rem;
+  height: 9.9rem;
+  position: relative;
+  left: 0;
+  top: 0;
+  background-size: 100% 190.845%;
+  background-position: 0.053rem -8.946rem;
+  background-image: url('../assets/saturnringsfalse-1.png');
+}
+.saturn-0-iUq .auto-group-qhcr-mrR .auto-group-azim-oq3 .group-63-x7b {
+  margin-bottom: 0.1073rem;
+  width: 14.7055rem;
+  border: solid 0.2rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  background-color: rgba(46, 53, 218, 0.150000006);
+  flex-shrink: 0;
+}
+.saturn-0-iUq .auto-group-qhcr-mrR .auto-group-azim-oq3 .group-63-x7b .hstsaturnnicmos-1-JSM {
+  width: 14.7rem;
+  height: 9.9rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.saturn-0-iUq .auto-group-9sst-ZNH {
+  margin: 0rem 3.6rem 1.8rem 2.37rem;
+  width: calc(100% - 5.9697rem);
+  height: 11.3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.saturn-0-iUq .auto-group-9sst-ZNH .auto-group-8tam-fw7 {
+  box-sizing: border-box;
+  padding: 0.025rem 2.981rem 0.025rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.saturn-0-iUq .auto-group-9sst-ZNH .auto-group-8tam-fw7 .group-69-ziV {
+  margin-right: 3.3275rem;
+  box-sizing: border-box;
+  padding: 0.075rem 0rem 0rem 0.03rem;
+  width: 14.7055rem;
+  border: solid 0.2rem #9e00ff;
+  box-shadow: 0 0 1rem #9e00ff;
+  background-color: rgba(46, 53, 218, 0.150000006);
+  flex-shrink: 0;
+}
+.saturn-0-iUq .auto-group-9sst-ZNH .auto-group-8tam-fw7 .group-69-ziV .vg1p22994c-1-Wgq {
+  width: 14.7rem;
+  height: 9.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.saturn-0-iUq .auto-group-9sst-ZNH .auto-group-8tam-fw7 .group-70-Nj3 {
+  margin: 0rem 3.006rem 1.375rem 0rem;
+  width: 14.7055rem;
+  border: solid 0.2rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  background-color: rgba(46, 53, 218, 0.150000006);
+  flex-shrink: 0;
+}
+.saturn-0-iUq .auto-group-9sst-ZNH .auto-group-8tam-fw7 .group-70-Nj3 .vg1p23254-1-ucV {
+  width: 14.7rem;
+  height: 9.9rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.saturn-0-iUq .auto-group-9sst-ZNH .auto-group-8tam-fw7 .group-71-aid {
+  margin-bottom: 1.3752rem;
+  width: 14.7055rem;
+  border: solid 0.2rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  background-color: rgba(46, 53, 218, 0.150000006);
+  flex-shrink: 0;
+}
+.saturn-0-iUq .auto-group-9sst-ZNH .auto-group-8tam-fw7 .group-71-aid .vg2p24368-1-w3P {
+  width: 14.7rem;
+  height: 9.9rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.saturn-0-iUq .auto-group-9sst-ZNH .auto-group-bmhw-ac9 {
+  width: 16.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.saturn-0-iUq .auto-group-9sst-ZNH .auto-group-bmhw-ac9 .group-63-87s {
+  width: 14.7055rem;
+  height: 9.8752rem;
+  position: absolute;
+  left: 0.0248rem;
+  top: 0.0248rem;
+  border: solid 0.2rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  background-color: rgba(46, 53, 218, 0.150000006);
+}
+.saturn-0-iUq .auto-group-9sst-ZNH .auto-group-bmhw-ac9 .group-63-87s .rectangle-44-eru {
+  width: 100%;
+  height: 9.8752rem;
+  border: solid 0.2rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  background-color: rgba(46, 53, 218, 0.150000006);
+}
+.saturn-0-iUq .auto-group-9sst-ZNH .auto-group-bmhw-ac9 .group-74-8XB {
+  width: 6.2rem;
+  height: 9.1rem;
+  position: absolute;
+  left: 10.3rem;
+  top: 2.2rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-80-iJV.png');
+}
+.saturn-0-iUq .auto-group-9sst-ZNH .auto-group-bmhw-ac9 .group-74-8XB .vector-81-rxy {
+  width: 6.2rem;
+  height: 9.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.saturn-0-iUq .auto-group-9sst-ZNH .auto-group-bmhw-ac9 .pia13405-1-bQm {
+  width: 14.7rem;
+  height: 9.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.saturn-0-iUq .auto-group-xdim-8Qh {
+  width: 100%;
+  height: 2.4rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.saturn-0-iUq .auto-group-xdim-8Qh .group-53-sNH {
+  margin-right: 19.9915rem;
+  width: 11.6085rem;
+  height: 100%;
+  cursor: pointer;
+  position: relative;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.saturn-0-iUq .auto-group-xdim-8Qh .group-53-sNH .rectangle-7-cKs {
+  width: 10.2468rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.3rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 1.2rem;
+}
+.saturn-0-iUq .auto-group-xdim-8Qh .group-53-sNH .rectangle-10-v5f {
+  width: 10.2468rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.3rem rgba(158, 0, 255, 0.6000000238);
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  background-color: rgba(46, 53, 218, 0.3000000119);
+  border-radius: 1.2rem;
+}
+.saturn-0-iUq .auto-group-xdim-8Qh .group-53-sNH .home-AVo {
+  width: 7.5rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 0.3rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.756rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.saturn-0-iUq .auto-group-xdim-8Qh .group-73-3pV {
+  margin-right: 26.5rem;
+  width: 7.2rem;
+  height: 1.9rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.2525;
+  letter-spacing: 0.48rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  background-color: rgba(46, 53, 218, 0.150000006);
+  flex-shrink: 0;
+}
+.saturn-0-iUq .auto-group-xdim-8Qh .group-52-GBT {
+  width: 10.6rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.756rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.3rem rgba(158, 0, 255, 0.6000000238);
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 1.2rem;
+  background-color: rgba(46, 53, 218, 0.3000000119);
+  flex-shrink: 0;
+}

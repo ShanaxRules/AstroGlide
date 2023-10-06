@@ -1,0 +1,145 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 80rem;
+}.calculator-5-fTX {
+  box-sizing: border-box;
+  padding: 2.2rem 2.3rem 1.8rem 2.6rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/screen-0-1-bg-tmF.png');
+  background-color: #ffffff;
+}
+.calculator-5-fTX .group-85-Zoo {
+  margin: 0rem 21.2rem 4.2rem 21rem;
+  box-sizing: border-box;
+  padding: 0 1.3rem;
+  width: calc(100% - 42.2rem);
+  height: 2.4rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.18rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.3rem rgba(158, 0, 255, 0.6000000238);
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 0.7rem;
+  background-color: rgba(46, 53, 218, 0.3000000119);
+  flex-shrink: 0;
+}
+.calculator-5-fTX .the-distance-between-these-points-is-46042-mi-KAh {
+  margin: 0rem 0.3rem 0.6rem 0rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.16rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.calculator-5-fTX .draw-2-zGq {
+  margin: 0rem 0.3rem 1rem 0rem;
+  width: 38.6rem;
+  height: 19.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.calculator-5-fTX .auto-group-lncv-hh3 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.calculator-5-fTX .auto-group-lncv-hh3 .auto-group-mweh-f85 {
+  margin: 0rem 61.3rem 0.6rem 0rem;
+  width: 6.8rem;
+  height: 1.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.calculator-5-fTX .auto-group-lncv-hh3 .auto-group-mweh-f85 .rectangle-15-aVw {
+  width: 6.8rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  border: solid 0.3rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 0.7rem;
+}
+.calculator-5-fTX .auto-group-lncv-hh3 .auto-group-mweh-f85 .home-ULR {
+  width: 5.1rem;
+  height: 1.8rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0.9rem;
+  top: 0;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.14rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.calculator-5-fTX .auto-group-lncv-hh3 .auto-group-qgnz-9hT {
+  margin-top: 0.6rem;
+  width: 7rem;
+  height: 1.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.calculator-5-fTX .auto-group-lncv-hh3 .auto-group-qgnz-9hT .rectangle-16-tQ9 {
+  width: 7rem;
+  height: 1.6rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  border: solid 0.3rem #9e00ff;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem #9e00ff;
+  border-radius: 0.7rem;
+}
+.calculator-5-fTX .auto-group-lncv-hh3 .auto-group-qgnz-9hT .back-anm {
+  width: 4.5rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 1.15rem;
+  top: 0;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  letter-spacing: 0.14rem;
+  color: #ffffff;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+}
